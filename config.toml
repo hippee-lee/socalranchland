@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Socal Ranch - a (sub) urban ranching experiment"
+theme = "hi-im-matt"
