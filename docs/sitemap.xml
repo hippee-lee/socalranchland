@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://hippee-lee.github.io/socalranchland/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://hippee-lee.github.io/socalranchland/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://hippee-lee.github.io/socalranchland/tags/</loc>
   </url>
   
 </urlset>
