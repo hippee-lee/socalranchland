@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hack on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</title>
+    <link>https://socalranch.land/categories/hack/</link>
+    <description>Recent content in Hack on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 May 2015 15:41:56 +0000</lastBuildDate>
+    
+	<atom:link href="https://socalranch.land/categories/hack/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Yosemite Bluettooth Connectivity Fix</title>
+      <link>https://socalranch.land/posts/2015-05-15-yosemite-bluettooth-connectivity-fix/</link>
+      <pubDate>Fri, 15 May 2015 15:41:56 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2015-05-15-yosemite-bluettooth-connectivity-fix/</guid>
+      <description>I have been having issues with my trackpad and bluetooth keyboard reconnecting to after I wake up from a sleep session. Only twice now but the same thing. Instead of restarting (which will fix it) you can drop into the command line and run these two commands:
+  sudo kextunload -b com.apple.iokit.BroadcomBluetoothHostControllerUSBTransport
+  sudo kextload -b com.apple.iokit.BroadcomBluetoothHostControllerUSBTransport
+  </description>
+    </item>
+    
+    <item>
+      <title>Break It First</title>
+      <link>https://socalranch.land/posts/2014-04-24-break-it-first/</link>
+      <pubDate>Thu, 24 Apr 2014 05:44:52 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2014-04-24-break-it-first/</guid>
+      <description>&lt;p&gt;If you want to learn how to program, learn how to break shit first. Some tools (git) make it easy to break. Eventually, once you break enough shit, someone who knows you can break will challenge you. Challenge you to fix something that someone else broke or address a problem that has never been solved but holds them back.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Custom Shelf</title>
+      <link>https://socalranch.land/posts/2014-03-19-my-custom-shelf/</link>
+      <pubDate>Wed, 19 Mar 2014 23:56:27 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2014-03-19-my-custom-shelf/</guid>
+      <description>&lt;h3 id=&#34;customization-is-diy&#34;&gt;Customization Is DIY&lt;/h3&gt;
+
+&lt;p&gt;I wanted a custom shelf and didn&amp;#8217;t think any of the usual suspects would have something like I wanted in the price range I wanted. So I&amp;#8217;m going to make my own. Like cooking, the more I do for myself the closer I get to what I want. Perhaps this is because economies of scale must make compromises and I have to make compromises when I dim (do it myself). It&amp;#8217;s just that I can supply the skill and choose which compromises I care about most.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>One Thing I Have</title>
+      <link>https://socalranch.land/posts/2014-03-04-one-thing-i-have/</link>
+      <pubDate>Tue, 04 Mar 2014 05:33:22 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2014-03-04-one-thing-i-have/</guid>
+      <description>&lt;p&gt;There are other things. But tonight the camera in my pocket is worth priceless. When I was a kid and I helped do repair it was taking things apart to see what could be salvaged and putting them back together if there was a way or we could get the right parts to replace.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Quadruple A Weekend Hack (aaaa)</title>
+      <link>https://socalranch.land/posts/2014-01-25-quaddruple-a-weekend-hack-aaaa/</link>
+      <pubDate>Sat, 25 Jan 2014 22:25:23 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2014-01-25-quaddruple-a-weekend-hack-aaaa/</guid>
+      <description>&lt;p&gt;One of my new Xmas toys was a stylus that has pressure sensitivity and other things available if the app developer implements it. It talks Bluetooth and unfortunately wacom decided to use aaaa batteries to power it. No store in the area carry them and all the shady sellers on amazon ( shady because they send them without being in original packaging even though they picture them as such. About half of the reviewers received dead or expired batteries ).&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

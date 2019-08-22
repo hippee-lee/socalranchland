@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computing on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</title>
+    <link>https://socalranch.land/categories/computing/</link>
+    <description>Recent content in Computing on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Dec 2015 19:41:06 +0000</lastBuildDate>
+    
+	<atom:link href="https://socalranch.land/categories/computing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modifying Phone Links For Screens</title>
+      <link>https://socalranch.land/posts/2015-12-15-modifying-phone-links-for-screens/</link>
+      <pubDate>Tue, 15 Dec 2015 19:41:06 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2015-12-15-modifying-phone-links-for-screens/</guid>
+      <description>Your Problem So you have a link thats a phone number. You have this because you want the link to auto dial when on a phone but look like text and not have any functionality when on a screen larger than a phone. As an engineer you don&amp;#8217;t want to duplicate html to provide this feature and would love if css had a way to encapsulate this on one place.</description>
+    </item>
+    
+    <item>
+      <title>Yosemite Bluettooth Connectivity Fix</title>
+      <link>https://socalranch.land/posts/2015-05-15-yosemite-bluettooth-connectivity-fix/</link>
+      <pubDate>Fri, 15 May 2015 15:41:56 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2015-05-15-yosemite-bluettooth-connectivity-fix/</guid>
+      <description>I have been having issues with my trackpad and bluetooth keyboard reconnecting to after I wake up from a sleep session. Only twice now but the same thing. Instead of restarting (which will fix it) you can drop into the command line and run these two commands:
+  sudo kextunload -b com.apple.iokit.BroadcomBluetoothHostControllerUSBTransport
+  sudo kextload -b com.apple.iokit.BroadcomBluetoothHostControllerUSBTransport
+  </description>
+    </item>
+    
+    <item>
+      <title>Her First Code</title>
+      <link>https://socalranch.land/posts/2015-03-25-her-first-code/</link>
+      <pubDate>Wed, 25 Mar 2015 00:21:40 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2015-03-25-her-first-code/</guid>
+      <description>Thank you Khan Academy. Hannah is a second grader at Pinecrest learning to multiply and divide. She is using your videos to supplement the class work and the draw with code lesson caught her eyes.&amp;nbsp;
+With a bit of help from me, she drew her &amp;nbsp;own beautiful day. What a great tool! And red sky, that&amp;#8217;s so way cool !!&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title>Motion Excitement</title>
+      <link>https://socalranch.land/posts/2014-09-05-motion-excitement/</link>
+      <pubDate>Fri, 05 Sep 2014 14:54:45 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2014-09-05-motion-excitement/</guid>
+      <description>&lt;p&gt;I&amp;#8217;m following the progress of Zurb&amp;#8217;s Foundation For Apps. They have published some ideas related to erasing the difference between native mobile apps and web apps on a mobile device.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Angular 101</title>
+      <link>https://socalranch.land/posts/2014-06-24-angular-101/</link>
+      <pubDate>Tue, 24 Jun 2014 16:40:27 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2014-06-24-angular-101/</guid>
+      <description>From Anatidae&amp;#8217;s comment on the web:
+  If you&amp;#8217;re messing with the DOM, do it in a directive If you&amp;#8217;re modifying your data, do it in your controllers or services.  If you&amp;#8217;re defining data, do it in a factory.   Also, the faster you forget about jQuery, the faster you will be productive building an Angular app. You can always bring it back later if you still want to and you may run into in in disguise in one of your directives.</description>
+    </item>
+    
+    <item>
+      <title>Note To Self</title>
+      <link>https://socalranch.land/posts/2014-06-22-note-to-self/</link>
+      <pubDate>Sun, 22 Jun 2014 00:16:27 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2014-06-22-note-to-self/</guid>
+      <description>&lt;p&gt;Or, career plans for the next two decades:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“One of the main ways to deliver education over the next 10 to 20 years is going to be through smartphones,” von Ahn says.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Primitive Reference</title>
+      <link>https://socalranch.land/posts/2014-05-22-primitive-reference/</link>
+      <pubDate>Thu, 22 May 2014 17:14:25 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2014-05-22-primitive-reference/</guid>
+      <description>&lt;p&gt;I routinely take the JavaScript primitives for granted. Sure, when I sit there and think about it I can come up with most of them and describe their properties. In more detail and for faster reference in the future, here are the JavaScript Primitives as I know them. More details and fun facts can be found at the &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects&#34;&gt;Global Objects&lt;/a&gt; page of the mozilla developer documentation site.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Remember The Terminal</title>
+      <link>https://socalranch.land/posts/2014-05-21-the-terminal/</link>
+      <pubDate>Wed, 21 May 2014 15:26:09 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2014-05-21-the-terminal/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost/wp-content/uploads/2014/05/Screen-Shot-2014-05-21-at-8.18.14-AM.png&#34;&gt;&lt;img class=&#34;alignleft size-medium wp-image-5902&#34; src=&#34;http://localhost/wp-content/uploads/2014/05/Screen-Shot-2014-05-21-at-8.18.14-AM-300x38.png&#34; alt=&#34;Screen Shot 2014-05-21 at 8.18.14 AM&#34; width=&#34;300&#34; height=&#34;38&#34; srcset=&#34;http://localhost/wp-content/uploads/2014/05/Screen-Shot-2014-05-21-at-8.18.14-AM-300x38.png 300w, http://localhost/wp-content/uploads/2014/05/Screen-Shot-2014-05-21-at-8.18.14-AM.png 554w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;ll forget it when your app does the same things, in the same way and is as easily customizable as the command line.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>expect(a).toBe(c)</title>
+      <link>https://socalranch.land/posts/2014-04-23-expecta-tobec/</link>
+      <pubDate>Wed, 23 Apr 2014 20:34:10 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2014-04-23-expecta-tobec/</guid>
+      <description>I was writing some tests for a singleton I need to create and thought this block was cool:
+[js]
+it(&amp;#8216;should be a Singleton object&amp;#8217;, function () {
+var a = siteDNA.getInstance();
+var c = siteDNA.getInstance();
+expect(a).toBe&amp;copy;;
+});
+[/js]</description>
+    </item>
+    
+    <item>
+      <title>Thing As Interface</title>
+      <link>https://socalranch.land/posts/2014-03-10-thing-as-interface/</link>
+      <pubDate>Mon, 10 Mar 2014 14:07:56 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2014-03-10-thing-as-interface/</guid>
+      <description>&lt;p&gt;I have been thinking about why I don&amp;#8217;t want my apps to make me think. I&amp;#8217;m there to do a job and move on. If I have to change this, fix that or connect to the network because the app forgot that it just got the data for this screen a minute ago before I switched apps to check my calendar; then the app is making me do more mental work than I budgeted for the task.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>OnReMe</title>
+      <link>https://socalranch.land/posts/2014-02-20-onreme/</link>
+      <pubDate>Thu, 20 Feb 2014 15:32:43 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2014-02-20-onreme/</guid>
+      <description>&lt;p&gt;Zumbox is winding down and I&amp;#8217;m iterating through updated versions of my resume and cover letter. I&amp;#8217;ve been testing the water around TO this week and there are opportunities for sure. Doing the new browser client in AngularJS was very fortuitous.&lt;/p&gt;
+
+&lt;p&gt;I was lucky to take an Angular path to some more JS enlightenment* &lt;a href=&#34;http://www.bennadel.com/blog/2439-My-Experience-With-AngularJS-The-Super-heroic-JavaScript-MVW-Framework.htm&#34;&gt;here&lt;/a&gt;. It&amp;#8217;s highs for me were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Scope, $scope and direct binding to the DOM elements&lt;/li&gt;
+&lt;li&gt;Directives as reusable widgets&lt;/li&gt;
+&lt;li&gt;Factory services with the builder pattern for extending an objects functionlity&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=XLaYaaq2Miw&#34;&gt;Promises, Promises&lt;/a&gt; and &lt;a href=&#34;http://taoofcode.net/promise-anti-patterns/&#34;&gt;Promise Anti-Patterns&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I&amp;#8217;m still going up (and down 🙂 ) &amp;#8211; every time I drop into the angular source code to trace or debug issues I am treated to a mind expanding experience. And it&amp;#8217;s very humbling.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bundle Bit Removal</title>
+      <link>https://socalranch.land/posts/2013-11-24-bundle-bit-removal/</link>
+      <pubDate>Sun, 24 Nov 2013 17:25:29 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2013-11-24-bundle-bit-removal/</guid>
+      <description>Used when I copied my laptop photo library into a media archive and Finder saw the parent directory as a package instead of a folder.
+ xattr -d com.apple.FinderInfo ~/Desktop  </description>
+    </item>
+    
+    <item>
+      <title>A Digital First</title>
+      <link>https://socalranch.land/posts/2013-09-29-a-digital-first/</link>
+      <pubDate>Sun, 29 Sep 2013 19:30:34 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2013-09-29-a-digital-first/</guid>
+      <description>Hannah sent her first text.</description>
+    </item>
+    
+    <item>
+      <title>10 Favorite Things</title>
+      <link>https://socalranch.land/posts/2013-08-25-10-favorite-things/</link>
+      <pubDate>Sun, 25 Aug 2013 06:39:38 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2013-08-25-10-favorite-things/</guid>
+      <description>&lt;p&gt;I&amp;#8217;m sure this will change with time. Here is my list of 10 favorite things. (prompted by the &lt;a href=&#34;https://uncommon.cc&#34;&gt;uncommon&lt;/a&gt; website)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Think For Me</title>
+      <link>https://socalranch.land/posts/2013-08-15-think-for-me/</link>
+      <pubDate>Thu, 15 Aug 2013 15:55:09 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2013-08-15-think-for-me/</guid>
+      <description>&lt;p&gt;I was using &lt;a href=&#34;https://www.atlassian.com/software/jira&#34;&gt;JIRA&lt;/a&gt; this morning and it tried to think for me. A few months ago we switched to JIRA issue tracking at work. ANd it is miles ahead of the disjointed system we were using before. Still, it tried to think for me to make things easier I assume. It didn&amp;#8217;t get it right and ended up leading me down a path that caused me to re-do about five minutes of working.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Evolution is Migration</title>
+      <link>https://socalranch.land/posts/2013-08-14-evolution-is-migration/</link>
+      <pubDate>Wed, 14 Aug 2013 15:39:31 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2013-08-14-evolution-is-migration/</guid>
+      <description>&lt;p&gt;In life, everything evolves. Not quite the same as the Darwinian definition of the word but its a close metaphor. But, in the small, learning and adapting behavior to take advantage of knowledge sense of the word. That&amp;#8217;s why animals, people included, migrate. Birds go where it&amp;#8217;s warmer and the food is easy. People migrate around various web properties because they find value for their time there. Then a new shiny service starts up and they migrate again.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Swipe to Action</title>
+      <link>https://socalranch.land/posts/2013-08-02-swipe-to-action/</link>
+      <pubDate>Fri, 02 Aug 2013 12:38:35 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2013-08-02-swipe-to-action/</guid>
+      <description>&lt;p&gt;&lt;a style=&#34;line-height: 1.6;&#34; href=&#34;http://localhost/wp-content/uploads/2013/08/20130802-113456.jpg&#34;&gt;&lt;img class=&#34;alignnone size-full&#34; alt=&#34;20130802-113456.jpg&#34; src=&#34;http://localhost/wp-content/uploads/2013/08/20130802-113456.jpg&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The 7&amp;#8243; Form</title>
+      <link>https://socalranch.land/posts/2013-07-30-the-7-form/</link>
+      <pubDate>Tue, 30 Jul 2013 08:37:58 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2013-07-30-the-7-form/</guid>
+      <description>&lt;p&gt;I was curious about the new nexus 7 that is all the rage and in the news. Specifically how would a comparable nexus 7 compare to the iPad mini. I want to know this because I have really come to enjoy the mid range form factor the 7 inch screen brings to mobile computing with a tablet.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Future Actions ( in your computer interface )</title>
+      <link>https://socalranch.land/posts/2013-07-28-future-actions/</link>
+      <pubDate>Sun, 28 Jul 2013 23:13:11 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2013-07-28-future-actions/</guid>
+      <description>&lt;p&gt;The next user interface will combine motion with action. Most of the &amp;#8216;action&amp;#8217; will be spoken in the way an executive gives orders to the minions. Copy this, save that and put the other thing over there, oh yeah, when I finish this, remind me to do the other thing before I get distracted by shinty Internet things. All desired actions will  be spoken aloud in conversation. You know people like me whom in the middle of a problem talk it through. Yeah, these additions to ourinterface will be great for us. 🙂&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Summertime Milestone</title>
+      <link>https://socalranch.land/posts/2013-06-14-summertime-milestone/</link>
+      <pubDate>Fri, 14 Jun 2013 07:55:34 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2013-06-14-summertime-milestone/</guid>
+      <description>I can&amp;#8217;t believe she is moving on from kindergarten. It seems like the long days of home work and coordinating drop offs, pickups and school events coalesce into a brief moment that passes by while I was blinking.
+Now she can read, to me. Now she can do math, well adding and subtracting. Now she has bff&amp;#8217;s &amp;#8211; although they are quite dynamic. Now she can dress herself for uniform days or free dress days and she knows better than info what the rules are.</description>
+    </item>
+    
+    <item>
+      <title>Sunday Activity</title>
+      <link>https://socalranch.land/posts/2013-02-10-sunday-activity/</link>
+      <pubDate>Sun, 10 Feb 2013 18:23:31 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2013-02-10-sunday-activity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Happy Tree Software</title>
+      <link>https://socalranch.land/posts/2012-12-31-happy-tree-software/</link>
+      <pubDate>Mon, 31 Dec 2012 23:42:51 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2012-12-31-happy-tree-software/</guid>
+      <description>Project goals for 2013: the year of the happy tree.
+ Pinboard appfor iOS with collections view Tree &amp;amp; Leaf generation software</description>
+    </item>
+    
+    <item>
+      <title>UX Matters: Why Hangouts needs to be more like FaceTime</title>
+      <link>https://socalranch.land/posts/2012-12-25-ux-matters-why-hangouts-needs-to-be-more-like-facetime/</link>
+      <pubDate>Tue, 25 Dec 2012 12:30:03 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2012-12-25-ux-matters-why-hangouts-needs-to-be-more-like-facetime/</guid>
+      <description>Tried to set up a Hangout for family in different states. For regular users of google plus not an issue. For users who logged in a while ago and set everything up just after the service went public not so much. Here is what I noticed on Christmas AM while trying to help them and watch my daughter open her gifts from Santa.
+ Plugins are horrible for ux &amp;#8211; that&amp;#8217;s why we just had them revert to FaceTime, it never asks you to install anything.</description>
+    </item>
+    
+    <item>
+      <title>The New Slideshow</title>
+      <link>https://socalranch.land/posts/2012-03-08-the-new-slideshow/</link>
+      <pubDate>Thu, 08 Mar 2012 21:03:29 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2012-03-08-the-new-slideshow/</guid>
+      <description>&lt;p&gt;I have come across several neat JavaScript programs that take advantage of all the CSS3 fun you can do in modern browsers. Each time I see a new one idas go racing through my head. I can do this or that or &amp;#8230;.&lt;/p&gt;
+
+&lt;p&gt;A couple weeks ago I got one of those mailer brochures from a credit card company with pretty images and pithy tag lines telling me all about their product. I don&amp;#8217;t need any more credit cards right now. But it did get me thinking, how could I do this on a webpage? So I marked it up with one of Hannah&amp;#8217;s pens into some simple markup for the different pieces on each page and put it on my desk. Then I cleaned the office and tossed it. However, the idea continued to roll around in my head and about a week later I finished reading &lt;a href=&#34;http://www.thestartupofyou.com/&#34;&gt;The Start Up Of You&lt;/a&gt;. I joined the group on LinkedIn. Why not, I have been spending quite a bit of time on there looking for reasonable jobs lately. So it was easy to join and nice to come across variations of ideas in the book as well as intelligent discussion about how to&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>An Easy Toolchain</title>
+      <link>https://socalranch.land/posts/2012-02-21-an-easy-toolchain/</link>
+      <pubDate>Tue, 21 Feb 2012 09:16:40 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2012-02-21-an-easy-toolchain/</guid>
+      <description>&lt;p&gt;I learned about tools from my dad. He used to fix everything us kiddos broke around the house and the cars and other engine driven things we used. I remember he had a method that included starting from the problem and working backwards through the solution. I spent alot of time bored out of my mind, holding his tools. Sometimes I was sent to get different tools but usually he brought a couple of different general purpose tools and was able to make due with them.&lt;/p&gt;
+
+&lt;p&gt;Its funny, the more I learn about software and software development, even from a web slanted view, it all depends on the tools you use. It depends on the tools that work best with your style. I have been keeping my personal projects and org-mode files under version control at bitbucket with mercurial for a few years now and while not completely immersed in the distributed version control environment, I am drawn to the benefits of it. Namely being able to commit to my repo whenever and whereever I am internt access or no internet access.&lt;/p&gt;
+
+&lt;p&gt;As I ramp up the search for opportunities in the next phase there are a lot of things I still need&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Un Using Chrome</title>
+      <link>https://socalranch.land/posts/2011-12-19-un-using-chrome/</link>
+      <pubDate>Mon, 19 Dec 2011 15:47:35 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-12-19-un-using-chrome/</guid>
+      <description>&lt;p&gt;Today, I gave up on using chrome for google apps. Ever since they opened up google+ for public use they changed something about the authentication system and my computer running chrome really does not like it. It makes me log in to each app multiple times per day. Intermittently I would get the you must enable javascript or clearn you cache and cookies blah blah blah. Well its been several months and JavaScript has always been enabled. I think my cache and cookies are clear enough to fry an egg on.&lt;/p&gt;
+
+&lt;p&gt;I have even tried to uninstall and re-install but not that the time spent trying to figure out why wants me to log in for each app, multiple time a day it is time to use tool that don&amp;#8217;t get in the way of what I need or want to do and re-logging into a web service multiple times a day is not what I want to do.&lt;/p&gt;
+
+&lt;p&gt;So I went back to firefox for google plus and the document s. I am going to use apples mail and cal apps for those accounts. I guess the plus side is that I don&amp;#8217;t need to see any of the adds &amp;#8211;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Best Way To Install ffmpeg for Web and Mobile Video Conversion</title>
+      <link>https://socalranch.land/posts/2011-11-18-best-way-to-install-ffmpeg-for-web-and-mobile-video-conversion/</link>
+      <pubDate>Fri, 18 Nov 2011 12:01:13 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-11-18-best-way-to-install-ffmpeg-for-web-and-mobile-video-conversion/</guid>
+      <description>I have been struggling with the default install of ffmpeg on centOS5 and went to HandbrakeCLI for easy conversion. However, we need a tool that will convert videos for web (this means x264 and other formats for chrome) and iOS devices.
+The stock yum install of ffmpeg on centos (i386) is at 0.6ish. I think its time to upgrade our servers because trying to create webm video is just not working.</description>
+    </item>
+    
+    <item>
+      <title>Working With Excel Data</title>
+      <link>https://socalranch.land/posts/2011-09-26-working-with-excel-data/</link>
+      <pubDate>Mon, 26 Sep 2011 14:10:32 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-09-26-working-with-excel-data/</guid>
+      <description>Excel is blah to work with. A client gives us data made with it though and they put symbols in the text. After trying to cat out the tsv file I found this solution from within emacs:
+M-x replace-regexp&amp;lt;br /&amp;gt; [[:nonascii:]] RET RET
+It found and replaced the pesky tm symbols in the text file with nothing. I wonder if the [[:nonascii:]] char class is available on the command line in awk or sed?</description>
+    </item>
+    
+    <item>
+      <title>Today&amp;#8217;s Bash Line</title>
+      <link>https://socalranch.land/posts/2011-09-07-todays-bash-line/</link>
+      <pubDate>Wed, 07 Sep 2011 20:12:52 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-09-07-todays-bash-line/</guid>
+      <description>&amp;lt;br /&amp;gt; find . -name &#39;dbconfig.js&#39; | xargs cat | grep sql&amp;lt;br /&amp;gt; 
+I was looking for some examples of how other people updated the gears database with variables. This did the trick.</description>
+    </item>
+    
+    <item>
+      <title>Show filename and linenumber</title>
+      <link>https://socalranch.land/posts/2011-07-26-show-filename-and-linenumber/</link>
+      <pubDate>Tue, 26 Jul 2011 16:25:59 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-07-26-show-filename-and-linenumber/</guid>
+      <description>When searching for files in a bash shell, show the file and line that was matched:
+find . -name *.js -print0 | xargs -0 grep -n -H set_up_uploadify
+This could be rolled into a custom script with file type and arg1 and pattern as arg2.</description>
+    </item>
+    
+    <item>
+      <title>Early Photoshop</title>
+      <link>https://socalranch.land/posts/2011-04-25-early-photoshop/</link>
+      <pubDate>Mon, 25 Apr 2011 15:29:25 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-04-25-early-photoshop/</guid>
+      <description>&lt;p&gt;I&amp;#8217;m running out of things to distract Hannah with. She seems to be feeling better but it&amp;#8217;s only been 3.5 hours since she last spiked a temp of ~103. In an effort to create something for her to do and give myself some more time to play with css for today I resorted to the computer. I have heard enought dora and diego the past three days so I need to be creative in how I present things to her.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://hippeelee.com/blog/2011/04/early-photoshop/images/&#34; rel=&#34;attachment wp-att-1905&#34;&gt;&lt;img class=&#34;aligncenter size-full wp-image-1905&#34; title=&#34;PBS Logo&#34; src=&#34;http://hippeelee.com/blog/wp-content/uploads/2011/04/images1.jpg&#34; alt=&#34;&#34; width=&#34;226&#34; height=&#34;223&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;so-far-today-8230&#34;&gt;So far today &amp;#8230;&lt;/h2&gt;
+
+&lt;p&gt;She watched the entire pbs kids am lineup, did playdoh and stamps coloring by herself. She got all the basket toys out and got into an argument with Kee the cat.&lt;/p&gt;
+
+&lt;p&gt;In an effort to get a few more minutes and avoid anything Dora or Diego, I showed her how to use the track pad and made her click through all my links. More css rules are needed. I also want to take some more of the rules out of JavaScript and put it into the stylesheet.&lt;/p&gt;
+
+&lt;p&gt;When that failed to keep her interested (&amp;#8220;Papa I want to play games on your computer,&amp;#8221; she says to me 🙂 )Enter the old office computer and photoshop. Hannah can use the &amp;#8216;computer pen&amp;#8217;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Working with sed and tabs</title>
+      <link>https://socalranch.land/posts/2011-04-15-working-with-sed-and-tabs/</link>
+      <pubDate>Fri, 15 Apr 2011 10:36:26 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-04-15-working-with-sed-and-tabs/</guid>
+      <description>sed -i &amp;#8216;s/[&amp;#8211;TAB&amp;#8211;]/ /g&amp;#8217; file.txt
+In place of --TAB-- , give CTRL + V followed by TAB.
+&amp;nbsp;
+http://www.atoztoa.com/2008/12/replace-tab-using-sed.html</description>
+    </item>
+    
+    <item>
+      <title>Because It&amp;#8217;s There</title>
+      <link>https://socalranch.land/posts/2011-02-18-because-its-there/</link>
+      <pubDate>Fri, 18 Feb 2011 18:36:38 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-02-18-because-its-there/</guid>
+      <description>&lt;p&gt;I read a post by someone who used to work at youtube a while back. He was talking about how most of the people he interviewed could not work on the DOM with-out jQuery.&lt;/p&gt;
+
+&lt;p&gt;I like jQuery, it makes my job much, much easier even in the bastardized form I have to use it in. But, I liked the challenge and decided to work on the DOM with out a library, only using pure JavaScript.&lt;/p&gt;
+
+&lt;p&gt;It took me a few weeks of 2 hour nightly sessions to prototype, but I have something that runs. You can see the repository &lt;a href=&#34;https://bitbucket.org/hippeelee/ticker&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, and I added a page called &lt;a href=&#34;http://hippeelee.com/ticker.html&#34;&gt;ticker&lt;/a&gt;. Its a bare bones demo and still more concept than practical utility, but I am having fun fleshing it out.&lt;/p&gt;
+
+&lt;p&gt;I know there are more elegant tools and plug-ins that do the same thing. It feels good to do it for myself, just because I can. A bit like cultivating a home garden. Sure, I am not on the scale as the professionals and sure, my solution is not ideal. But that wasn&amp;#8217;t the point &amp;#8230;&lt;/p&gt;
+
+&lt;p&gt;The DOM with images was there and now I can make them do what I want. I learned a&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Craftsman Guarantee</title>
+      <link>https://socalranch.land/posts/2011-02-16-the-craftsman-guarantee/</link>
+      <pubDate>Wed, 16 Feb 2011 11:30:56 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-02-16-the-craftsman-guarantee/</guid>
+      <description>&lt;p&gt;When I was a child, my dad would do things around the house, maintain our cars and fix things that could be fixed. As I grew I was often involved in helping him. At first I think I just got in the way, then I was an extra set of hands and later, I was fixing stuff.&lt;/p&gt;
+
+&lt;p&gt;I remember a conversation we had about his tools where I was really focused on the why Craftsman Tools. Keep in mind this was back in the eighties and I was about 8; I am not sure who the main competitors were to Craftsman but I don&amp;#8217;t recall any brands of tools from back then other than Craftsman.&lt;/p&gt;
+
+&lt;p&gt;I wanted to know why he used that brand. When we went to Sears, they were way more expensive than anything else I saw. His reply was that they were better and they backed it up. There was a guarantee that I understood as follows: The tools will perform and they will not break or we will replace it. How could they do this, I wondered? He explained to me that they believed in their tools so much that they were willing to replace tools that&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Take it on and Take it off</title>
+      <link>https://socalranch.land/posts/2011-02-15-take-it-on-and-take-it-off/</link>
+      <pubDate>Tue, 15 Feb 2011 22:43:44 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-02-15-take-it-on-and-take-it-off/</guid>
+      <description>I am amazed at how long I went with out installing js2-mode on the netbook. To make it easy, I used the emacs default kit for saner defaults. Seems to work nicely.
+I haven&amp;#8217;t been back to the orc battle since Christmas. I have been coding with the ruby koans and a fun little js project I am calling ticker. The idea is to use only pure js to make elements on a page tick, like a digital clock ticks its nuimbers away.</description>
+    </item>
+    
+    <item>
+      <title>Walking Nashau</title>
+      <link>https://socalranch.land/posts/2010-04-14-walking-nashau/</link>
+      <pubDate>Wed, 14 Apr 2010 14:33:49 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2010-04-14-walking-nashau/</guid>
+      <description>After day two of the CMS training in Nashau, NH i taxied over to Greely Park and walked along the river.
+i was reminded how much fun it is to pretend to be an explorer when walking in the woods, just like I used to do in the Ravine at my childhood home. I think the light filtering through the trees had something to do with it.
+I decided to save the $10 cab fare and walk home through some nice nieghborhoods.</description>
+    </item>
+    
+    <item>
+      <title>M-x untabify to the rescue</title>
+      <link>https://socalranch.land/posts/2009-08-04-m-x-untabify-to-the-rescue/</link>
+      <pubDate>Tue, 04 Aug 2009 07:27:45 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-08-04-m-x-untabify-to-the-rescue/</guid>
+      <description>Since setting up at the new shop I have seen several issues with the legacy codebase that I am working with.
+The biggest thing that throws emacs off is the inconsistency&amp;#8217;s that tabs cause in various parts of the code. some places have no tabs others are all tabs for indentation. Since I don&amp;#8217;t really care one way or the other I finally googled &amp;#8216;emacs + tabs&amp;#8216; and learned about tabify/untabify.</description>
+    </item>
+    
+    <item>
+      <title>Easy Scanner Fix</title>
+      <link>https://socalranch.land/posts/2009-06-10-easy-scanner-fix/</link>
+      <pubDate>Wed, 10 Jun 2009 10:28:05 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-06-10-easy-scanner-fix/</guid>
+      <description>&lt;p&gt;Remember, if you are just getting started with a mac, or any operating system, right click everything. Chances are you will get a contect menu with relevent operations for the object that you right clicked on.&lt;/p&gt;
+
+&lt;p&gt;Here is what I went over with Dad last Sunday (Yuuguu is the most helpful screen sharing app):&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Command + a =Ã‚Â select all. This applies to files in the finder when you are viewing a folder, the desktop, pictures in iPhoto and even the text in a writtne document.&lt;/li&gt;
+&lt;li&gt;If you hardware (scanner / printer) has an issue try unplugging it and then plugging it back in before you look at anything else. Worst case scenario, use the System Preferences/Print &amp;amp; Fax pane and uninstall/reinstall your printer software.&lt;/li&gt;
+&lt;li&gt;Dad&amp;#8217;s intro to spotlight. After we &amp;#8216;fixed&amp;#8217; the scanner he tested it to make sure it worked but he didn&amp;#8217;t choose the right folder to save the scanned image in. Since he roughly remembered the name he used I directed him to the little magnifying glass in the top right hand corner of his screen. Dad, meet Spotlight. He typed in the name he remembered and there it was in the drop down list. I told him to click&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emacs Quickie</title>
+      <link>https://socalranch.land/posts/2009-06-05-emacs-quickie/</link>
+      <pubDate>Fri, 05 Jun 2009 14:46:26 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-06-05-emacs-quickie/</guid>
+      <description>I stumbled across this today:
+C-u # C-x f &amp;#8211;&amp;gt; set-fill-column with the #arg.</description>
+    </item>
+    
+    <item>
+      <title>dotemacs debug</title>
+      <link>https://socalranch.land/posts/2009-05-29-dotemacs-debug/</link>
+      <pubDate>Fri, 29 May 2009 09:03:17 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-05-29-dotemacs-debug/</guid>
+      <description>I have been getting some strange errors on startup since I put my home directory under mercurial and have been trying to keep OSX Tiger(PPC) in sync with Leopard(Intel). Anyhow I was working through the errors on the Leopard box and got tired of quiting/restarting emacs. looking at an older post and doing a quick C-h k C-x C-e showed me that its an eval function. I have icicles installed so when I M-x eval TAB I got a list of all the eval commands available and there is the command of today:</description>
+    </item>
+    
+    <item>
+      <title>Object Matters</title>
+      <link>https://socalranch.land/posts/2009-05-21-object-matters/</link>
+      <pubDate>Thu, 21 May 2009 19:38:12 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-05-21-object-matters/</guid>
+      <description>From the book JavaScript: The Good Parts is this little gem.
+The lineage of an object is irrelevant. What matters about an object is what it can do, not what it is decended from.
+&amp;#8230;
+Prototypal Inheritance:
+You start by making a useful object. You can then make many more objects that are like that one.</description>
+    </item>
+    
+    <item>
+      <title>Emacs New Line</title>
+      <link>https://socalranch.land/posts/2009-05-21-emacs-new-line/</link>
+      <pubDate>Thu, 21 May 2009 09:53:34 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-05-21-emacs-new-line/</guid>
+      <description>I was doing exactly what this guy did here and it works like a charm &amp;#8230;
+ C-q C-j
+ </description>
+    </item>
+    
+    <item>
+      <title>Something Borrowed</title>
+      <link>https://socalranch.land/posts/2009-05-19-something-borrowed/</link>
+      <pubDate>Tue, 19 May 2009 08:17:39 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-05-19-something-borrowed/</guid>
+      <description>I am borrowing this from the emacs wiki.
+ ;; for swaping buffers between frames when the window is split
+(defun transpose-buffers (arg)
+&amp;#8220;Transpose the buffers shown in two windows.&amp;#8221;
+(interactive &amp;#8220;p&amp;#8221;)
+(let ((selector (if (&amp;gt;= arg 0) &amp;#8216;next-window &amp;#8216;previous-window)))
+(while (/= arg 0)
+(let ((this-win (window-buffer))
+(next-win (window-buffer (funcall selector))))
+(set-window-buffer (selected-window) next-win)
+(set-window-buffer (funcall selector) this-win)
+(select-window (funcall selector)))
+(setq arg (if (plusp arg) (1- arg) (1+ arg))))))</description>
+    </item>
+    
+    <item>
+      <title>Unbracket Anything</title>
+      <link>https://socalranch.land/posts/2009-04-29-unbracket-anything/</link>
+      <pubDate>Wed, 29 Apr 2009 21:31:05 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-04-29-unbracket-anything/</guid>
+      <description>Interesting, you can remove everyhing between bracktes (&amp;lt;&amp;gt;). It works with html and I think it handle xml but didn&amp;#8217;t test that for my homework.
+sed &amp;#8216;s/&amp;lt; [^&amp;gt;]*//g&amp;#8217;
+It finds the first &amp;lt; character and then deletes all text up to and including the next &amp;gt; character. Interesting.
+You could rehtml stuff but it might take several different scripts. There may be better ways to rehtml stuff.</description>
+    </item>
+    
+    <item>
+      <title>mykill</title>
+      <link>https://socalranch.land/posts/2009-04-22-mykill/</link>
+      <pubDate>Wed, 22 Apr 2009 08:01:38 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-04-22-mykill/</guid>
+      <description>I find mysefl running ps -ef | grep WORD (usually Safari but sometimes other things) alot. The Safari 4 beta is nice but still has some issues and it keeps locking up on me when I forget and use Conkerors navigation commands. Maybe I should just force myself to spend more time in Conkeror since its more emacs friendly. Not wanting to continue typing the same thing over and over again I wrote this:</description>
+    </item>
+    
+    <item>
+      <title>Practical awk/sed For My Job</title>
+      <link>https://socalranch.land/posts/2009-04-20-practical-awksed-for-my-job/</link>
+      <pubDate>Mon, 20 Apr 2009 09:49:05 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-04-20-practical-awksed-for-my-job/</guid>
+      <description>&lt;p&gt;Client gave me a list of do not call numbers that has 10 digits on a line. We only have 3, 6 and 7 digits phone scrubs. Using the 7 digit scrub I should be able to use the file the client gave us as a seven digit scrub if I just remove the last three digits from each number in the clients do not call list. The clients list has 686,930 numbers in it.&lt;/p&gt;
+
+&lt;p&gt;My usual approach of recording an emacs macro just bogged down the computer and there is also this weird error when I use C-u with large numbers (i gave it the prefix of 100k) and it bombed out after 25k or so).&lt;/p&gt;
+
+&lt;p&gt;Anyway, I though about it for a minute and then played around with awk and sed until I came up with this:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;awk &amp;#8216; {print $1} &amp;#8216; UT_suppress.txt | sed &amp;#8216;s/[0-9][0-9][0-9]$//&amp;#8217; &amp;gt; UT_supress_7digit.txt&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Done in less than a minute and I now have a file with seven digits on each line that will not send any numbers on the clients do not call list. &lt;span style=&#34;text-decoration: line-through;&#34;&gt;Now I am just waiting for the utility script to load that file into the database and its not nearly as fast as awk&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>M-x reverse-region</title>
+      <link>https://socalranch.land/posts/2009-04-16-m-x-reverse-region/</link>
+      <pubDate>Thu, 16 Apr 2009 11:30:51 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-04-16-m-x-reverse-region/</guid>
+      <description>There really is an M-x do-anything functionality built into emacs. I am building a form for a client and for some reason the select code they supplied has year options starting at 1920 and ending at 2009. SInce I highly doubt that we get many people who will choose 1920 through the site and because I don&amp;#8217;t want to annoy users who choose the most recent years I figured I would reverse the order, if I caould find M-x functionality that would let me do it fast.</description>
+    </item>
+    
+    <item>
+      <title>To Much Typing For Regexp Searches</title>
+      <link>https://socalranch.land/posts/2009-04-14-to-much-typing-for-regexp-searches/</link>
+      <pubDate>Tue, 14 Apr 2009 11:30:49 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-04-14-to-much-typing-for-regexp-searches/</guid>
+      <description>I have been getting better at using the regexp search functions in emacs. Today I got tired of all this typing: M-x search-forward-regexp so I bound it to this in my init file:
+ (global-set-key (kbd &amp;#8220;C-c sfr&amp;#8221;) &amp;#8216;search-forward-regexp)
+ Of couse I also bound the opposite:
+ (global-set-key (kbd &amp;#8220;C-c sbr&amp;#8221;) &amp;#8216;search-backward-regexp)
+ I know, I know, how did I get anything done when I had to type out all thise characters before.</description>
+    </item>
+    
+    <item>
+      <title>load-file and grep</title>
+      <link>https://socalranch.land/posts/2009-04-08-load-file/</link>
+      <pubDate>Wed, 08 Apr 2009 12:18:05 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-04-08-load-file/</guid>
+      <description>&lt;p&gt;M-x load-file is my emacs lisp friend. I am playing around with fizzbuzz.el and got tired of C-x C-e after an expression of C-j inside one so I googled around and learned about load-file.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;load-file is an interactive compiled Lisp function in `files.el&amp;#8217;.&lt;/p&gt;
+
+&lt;p&gt;(load-file file)&lt;/p&gt;
+
+&lt;p&gt;Load the Lisp file named file.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Just what I wanted to do, run my code all at once. If I had more time I could even bind a custom keystroke in my init file and not have to type all of that text out. Now if I could only figure out why only half of the numbers are printed to the *Messages* buffer? If I run the command with C-x C-e it does the same thing the first time, but on subsequent tries it will put all of the output I am expecting.&lt;/p&gt;
+
+&lt;p&gt;And, I figured out how to use grep from inside of emacs. I can&amp;#8217;t wait to have a change to try it out in my sandbox rather than on silly html forms.&lt;/p&gt;
+
+&lt;p&gt;Still getting the php yy_blah () out of memory error. So if I restart the server and the issue goes away, what does that mean? php has a limit on the amout of&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Matthews Fizzbuzz</title>
+      <link>https://socalranch.land/posts/2009-03-24-matthews-fizzbuzz/</link>
+      <pubDate>Tue, 24 Mar 2009 13:56:51 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-03-24-matthews-fizzbuzz/</guid>
+      <description>&lt;p&gt;During lunch I came across a reference to the fizzbuzz question (ie for the integers between 1-100 &amp;#8230; print fizz if the number is divisble by 3, buzz if divisible by 5 and fizzbuzz if divisible by both) in reading someone&amp;#8217;s blog. I have always said to myself, I need to see how long it will take me to solve that.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Javascript:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;var fizzbuzz = function(){&lt;/p&gt;
+
+&lt;p&gt;document.writeln(&amp;#8220;Matthews Fizzbuzz&amp;#8221;);&lt;/p&gt;
+
+&lt;p&gt;document.writeln(&amp;#8220;&lt;br /&gt;&amp;#8221;);&lt;/p&gt;
+
+&lt;p&gt;//an array to hold my numbers and numses&lt;/p&gt;
+
+&lt;p&gt;var nums = new Array();&lt;/p&gt;
+
+&lt;p&gt;for (x = 1; x &amp;lt; 101; ++x){&lt;/p&gt;
+
+&lt;p&gt;nums.push(x);&lt;/p&gt;
+
+&lt;p&gt;}&lt;/p&gt;
+
+&lt;p&gt;for (z=0; z &amp;lt; nums.length; ++z){&lt;/p&gt;
+
+&lt;p&gt;if(nums[z] % 3 == 0 &amp;amp;&amp;amp; nums[z] % 5 == 0){&lt;/p&gt;
+
+&lt;p&gt;document.writeln(&amp;#8220;fizzbuzz&amp;#8221; + &amp;#8220;&lt;br /&gt;&amp;#8221;);&lt;/p&gt;
+
+&lt;p&gt;}else if(nums[z] % 3 == 0){&lt;/p&gt;
+
+&lt;p&gt;document.writeln(&amp;#8220;fizz&amp;#8221; + &amp;#8220;&lt;br /&gt;&amp;#8221;);&lt;/p&gt;
+
+&lt;p&gt;}else if(nums[z] % 5 == 0){&lt;/p&gt;
+
+&lt;p&gt;document.writeln(&amp;#8220;buzz&amp;#8221; + &amp;#8220;&lt;br /&gt;&amp;#8221;);&lt;/p&gt;
+
+&lt;p&gt;}&lt;/p&gt;
+
+&lt;p&gt;else{&lt;/p&gt;
+
+&lt;p&gt;document.writeln(nums[z] + &amp;#8220;&lt;br /&gt;&amp;#8221;);&lt;/p&gt;
+
+&lt;p&gt;}&lt;/p&gt;
+
+&lt;p&gt;}&lt;/p&gt;
+
+&lt;p&gt;}&lt;/p&gt;
+
+&lt;p&gt;var start = new Date();&lt;/p&gt;
+
+&lt;p&gt;start = start.getTime(); Ã‚Â // returns millisecs since epoch which is what I want since this operation takes less than a second&lt;/p&gt;
+
+&lt;p&gt;start += parseInt( start );&lt;/p&gt;
+
+&lt;p&gt;fizzbuzz();&lt;/p&gt;
+
+&lt;p&gt;var end = new Date();&lt;/p&gt;
+
+&lt;p&gt;end = end.getTime();&lt;/p&gt;
+
+&lt;p&gt;end += parseInt( end );&lt;/p&gt;
+
+&lt;p&gt;document.writeln(&amp;#8220;This took &amp;#8221; + (end &amp;#8211; start) + &amp;#8221; milliseconds to run&amp;#8221;);&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Notes: it took me about five minutes give or take and I have seen it report between 2-4 milliseconds to run. The current program is 33 lines of code.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Emacs Lisp:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;;;print out&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Running With elisp</title>
+      <link>https://socalranch.land/posts/2009-03-24-running-with-elisp/</link>
+      <pubDate>Tue, 24 Mar 2009 07:12:35 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-03-24-running-with-elisp/</guid>
+      <description>I need to remember the other ways to run my elisp code. It will help to be able to do it inline when I want the resutls put into the documet I am editing, it will also help to be able to run a function from where my point currently is when I am figuring out somthing. To that end here are three ways to run elisp code:
+ C-j: will spit the result into the *scratch* buffer when testing scratch code there M-C-x: will echo the result into the mini buffer when the point is in the function C-xC-e: will echo the result into the mini buffer when point is just after the last )  These commands also work for atoms: expressions not in parens such as numbers, strings, characters and symbols.</description>
+    </item>
+    
+    <item>
+      <title>Go Fast, Do Less</title>
+      <link>https://socalranch.land/posts/2009-03-23-go-fast-do-less/</link>
+      <pubDate>Mon, 23 Mar 2009 08:48:33 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-03-23-go-fast-do-less/</guid>
+      <description>That is the main point of this post. I think it also applies to other things besides coding, things I am more familiar with like snowboarding, mountain biking and other real world activities.
+When snowboarding if you want to go fast Turn less and just go straight. Depending on your skill level you may want to waer a helmet and try this when no one is around. The same for mountian biking, just brake less but at strategic times.</description>
+    </item>
+    
+    <item>
+      <title>The Lucky Networked Time Machine RSS Feed</title>
+      <link>https://socalranch.land/posts/2009-03-17-the-lucky-networked-time-machine-rss-feed/</link>
+      <pubDate>Tue, 17 Mar 2009 20:05:47 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-03-17-the-lucky-networked-time-machine-rss-feed/</guid>
+      <description>&lt;p&gt;Dad called last night because his Time Machine was not backing up. So tonight we had another mac session. Here is what we went covered:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Time Machine: To check the status of time machine you can open &amp;#8216;System Preferences&amp;#8217; and click on Time Machine in the &amp;#8216;System&amp;#8217; row, second row from the bottom. Or, if you have the circular arrow with either the clock or the ! in it in the top bar of the screen you can just click that. Then I showed him how to make sure his Time Machine hard drive was mounted on his file system and if not, how to connect to it. Pretty easy,, we started a back up going and moved onto other things.&lt;/li&gt;
+&lt;li&gt;Dad wanted the pictures from the Cool Hannah Pics web page the we keep with mobile me. He had figured out how to download them one at a time by going to each picture, clicking the download link and then, after it downloaded, in the downloads window he would click the magnifying glass to &amp;#8216;Open in Finder.&amp;#8217; Then from finder he could drag it into iPhoto. &amp;#8220;Very good!&amp;#8221; I was proud of him and congratulated him for his investigative efforts. Then I&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>Best Thing Today</title>
+      <link>https://socalranch.land/posts/2009-03-17-best-thing-today/</link>
+      <pubDate>Tue, 17 Mar 2009 13:14:49 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-03-17-best-thing-today/</guid>
+      <description>Besides going home to see Hannah and Julie 🙂
+C-c C-f in php-mode. The output of M-x describe-key is as follows:
+ C-c C-f runs the command php-search-documentationÃ‚Â which is an interactive Lisp function in `php-mode.el&amp;#8217;.Ã‚Â It is bound to C-c C-f,   .Ã‚Â (php-search-documentation)Ã‚Â Search PHP documentation for the word at the point.
+ Yay. Thank you little buddy emacs.
+  </description>
+    </item>
+    
+    <item>
+      <title>Updating My Sandbox Repository Used To Take A Long Time</title>
+      <link>https://socalranch.land/posts/2009-03-17-updating-my-sandbox-repository-used-to-take-a-long-time/</link>
+      <pubDate>Tue, 17 Mar 2009 08:49:00 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-03-17-updating-my-sandbox-repository-used-to-take-a-long-time/</guid>
+      <description>&lt;p&gt;I have been spending more time in my sandbox at work lately and each time I need to go into the seperate parts of the system to update my sandbox form the repository trunk. Now that I have set up my ssh keys and no longer need to type in a pwd twenty times there was no reason to have to run svn update blah for the four parts of our system that I look at or use.&lt;/p&gt;
+
+&lt;p&gt;Enter update_svn.sh and I can just ssh into the server,Ã‚Â cd to my sandbox and run update_svn.sh and voila I get this&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;$ ./update_svn.sh&lt;/p&gt;
+
+&lt;p&gt;updating blah&lt;/p&gt;
+
+&lt;p&gt;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&lt;/p&gt;
+
+&lt;p&gt;Fetching external item into &amp;#8216;blah/blah&amp;#8217; Fetching external item into &amp;#8216;blah/lib/ajax&amp;#8217; External at revision 5734. Fetching external item into &amp;#8216;blah/lib/sarissa&amp;#8217; External at revision 5734. At revision 5734. Fetching external item into blah/blah/lib/custom&amp;#8217; External at revision 5734. At revision 5734.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&lt;/p&gt;
+
+&lt;p&gt;blah updated&lt;/p&gt;
+
+&lt;p&gt;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&lt;/p&gt;
+
+&lt;p&gt;updating foo&lt;/p&gt;
+
+&lt;p&gt;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&lt;/p&gt;
+
+&lt;p&gt;U foo/bin/foo.pl Updated to revision 5734.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&lt;/p&gt;
+
+&lt;p&gt;foo updated&lt;/p&gt;
+
+&lt;p&gt;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&lt;/p&gt;
+
+&lt;p&gt;updating bar&lt;/p&gt;
+
+&lt;p&gt;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&lt;/p&gt;
+
+&lt;p&gt;Fetching external item into &amp;#8216;bar/lib/ajax&amp;#8217; External at revision 5734. Fetching external item into &amp;#8216;bar/lib/sarissa&amp;#8217; External at revision 5734. At revision 5734.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&lt;/p&gt;
+
+&lt;p&gt;bar updated&lt;/p&gt;
+
+&lt;p&gt;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&lt;/p&gt;
+
+&lt;p&gt;updating baz&lt;/p&gt;
+
+&lt;p&gt;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&lt;/p&gt;
+
+&lt;p&gt;At revision 5734.&lt;/p&gt;
+
+&lt;p&gt;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&lt;/p&gt;
+
+&lt;p&gt;baz updated&lt;/p&gt;
+
+&lt;p&gt;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&lt;/p&gt;
+
+&lt;p&gt;sandbox repositiory updated&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Of couse the names and paths are changed for obvious reasons. But it sure makes it convienient to svn update now.Ã‚Â If I really wanted to&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>back2school</title>
+      <link>https://socalranch.land/posts/2009-03-09-back2school/</link>
+      <pubDate>Mon, 09 Mar 2009 20:10:07 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-03-09-back2school/</guid>
+      <description>Oh cool! On my way home today I got an email telling me that I got one of the scholarships for the mainframe administration certification at DU. The test was hard, it touched on concepts that are hazy memories from school four years ago. I may have to go back and do a bit of review so I can touch up on those concepts.
+From what i can read about the last class It looks like I&amp;#8217;ll be spending alot of time on the command line this spring.</description>
+    </item>
+    
+    <item>
+      <title>Main Frame Test</title>
+      <link>https://socalranch.land/posts/2009-02-24-main-frame-test/</link>
+      <pubDate>Tue, 24 Feb 2009 21:07:32 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-02-24-main-frame-test/</guid>
+      <description>I took the scholarship test for the main frame admin classes at DU. Holy crap! I am a little fuzzy on the things we learned in school. I&amp;#8217;ll need to review the areas of discrete math, networking, JAVA AND C/C++ .
+It might be best to start a computing sub category where I can go over each problem in more detail and address what I have forgotten</description>
+    </item>
+    
+    <item>
+      <title>Printing Labels with Address Book and Sorting Email in Mail</title>
+      <link>https://socalranch.land/posts/2009-02-18-printing-labels-with-address-book-and-sorting-email-in-mail/</link>
+      <pubDate>Wed, 18 Feb 2009 10:52:01 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-02-18-printing-labels-with-address-book-and-sorting-email-in-mail/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Address Book&lt;/strong&gt;: Mom needs some labels printed out so we started by selecting some contacts in the address book to print and setting up some preset Avery labels by label number. The workflow is as follows: Select one or more contacts to print, then choose File &amp;gt; Print. In the print dialog that pops up choose Mailing Labels as the Style and the Layout option. Now you can specify the page (We chose Avery Standard because they are printing on normal 8.5 x 11 paper) and then the label id number: 8160. WHen he did a test print of 10 contacts on a scrap piece of paper he found out that the left margin was off so we set up a custom label that was almost like the preset. We made note of the Margins: Top, Left, Right and Bottom and the gutters (vertical and horizontal space between individual labels), the number of rows and columns. Since the preset had the incorrect left margin we chose &amp;#8220;Define Custom: as the page and put in the noted top, bottom, right and gutterÃ‚Â measurementsÃ‚Â fromÃ‚Â theÃ‚Â preset.We setÃ‚Â theÃ‚Â columnsÃ‚Â at two and the rows at 5. Ã‚Â Then since it was the&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>using someone elses code works&amp;#8230;</title>
+      <link>https://socalranch.land/posts/2008-12-17-using-someone-elses-code-works/</link>
+      <pubDate>Wed, 17 Dec 2008 17:19:09 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2008-12-17-using-someone-elses-code-works/</guid>
+      <description>using someone elses code works better than mine right now</description>
+    </item>
+    
+  </channel>
+</rss>

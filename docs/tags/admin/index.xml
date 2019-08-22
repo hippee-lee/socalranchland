@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Admin on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</title>
+    <link>https://socalranch.land/tags/admin/</link>
+    <description>Recent content in Admin on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Nov 2011 12:01:13 +0000</lastBuildDate>
+    
+	<atom:link href="https://socalranch.land/tags/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Best Way To Install ffmpeg for Web and Mobile Video Conversion</title>
+      <link>https://socalranch.land/posts/2011-11-18-best-way-to-install-ffmpeg-for-web-and-mobile-video-conversion/</link>
+      <pubDate>Fri, 18 Nov 2011 12:01:13 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-11-18-best-way-to-install-ffmpeg-for-web-and-mobile-video-conversion/</guid>
+      <description>I have been struggling with the default install of ffmpeg on centOS5 and went to HandbrakeCLI for easy conversion. However, we need a tool that will convert videos for web (this means x264 and other formats for chrome) and iOS devices.
+The stock yum install of ffmpeg on centos (i386) is at 0.6ish. I think its time to upgrade our servers because trying to create webm video is just not working.</description>
+    </item>
+    
+  </channel>
+</rss>

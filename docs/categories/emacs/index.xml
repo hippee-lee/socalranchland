@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emacs on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</title>
+    <link>https://socalranch.land/categories/emacs/</link>
+    <description>Recent content in Emacs on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Sep 2011 14:10:32 +0000</lastBuildDate>
+    
+	<atom:link href="https://socalranch.land/categories/emacs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Working With Excel Data</title>
+      <link>https://socalranch.land/posts/2011-09-26-working-with-excel-data/</link>
+      <pubDate>Mon, 26 Sep 2011 14:10:32 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-09-26-working-with-excel-data/</guid>
+      <description>Excel is blah to work with. A client gives us data made with it though and they put symbols in the text. After trying to cat out the tsv file I found this solution from within emacs:
+M-x replace-regexp&amp;lt;br /&amp;gt; [[:nonascii:]] RET RET
+It found and replaced the pesky tm symbols in the text file with nothing. I wonder if the [[:nonascii:]] char class is available on the command line in awk or sed?</description>
+    </item>
+    
+    <item>
+      <title>Fun With Emacs</title>
+      <link>https://socalranch.land/posts/2011-04-01-fun-with-emacs/</link>
+      <pubDate>Fri, 01 Apr 2011 17:12:22 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-04-01-fun-with-emacs/</guid>
+      <description>I was able to figure out how to hook emacs up to an ipad at work today. It&amp;#8217;s still pretty simple stuff, load the webpage I am working on and pop alerts. But still, if I can figure out how to debug the errors and get the command to send JavaScript to the device working &amp;#8230; this could be a huge timesaver for debugging mobile applications.
+I&amp;#8217;m tagging this as a milestone only because it involves emacs, node.</description>
+    </item>
+    
+    <item>
+      <title>Take it on and Take it off</title>
+      <link>https://socalranch.land/posts/2011-02-15-take-it-on-and-take-it-off/</link>
+      <pubDate>Tue, 15 Feb 2011 22:43:44 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-02-15-take-it-on-and-take-it-off/</guid>
+      <description>I am amazed at how long I went with out installing js2-mode on the netbook. To make it easy, I used the emacs default kit for saner defaults. Seems to work nicely.
+I haven&amp;#8217;t been back to the orc battle since Christmas. I have been coding with the ruby koans and a fun little js project I am calling ticker. The idea is to use only pure js to make elements on a page tick, like a digital clock ticks its nuimbers away.</description>
+    </item>
+    
+    <item>
+      <title>dired fun</title>
+      <link>https://socalranch.land/posts/2010-09-03-dired-fun/</link>
+      <pubDate>Fri, 03 Sep 2010 21:47:23 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2010-09-03-dired-fun/</guid>
+      <description>I finally forced myself to figure out how to use the &amp;#8220;dired-do-query-replace-regexp&amp;#8221; command (Q) with marked files in the dired buffer. Turns out it is pretty simple and very handy for inserting google analytics tracking code into website files all at once.
+Last night, after a silly and frustrating week I was so glad to sit outside with my wife and compare war stories.
+Today, it&amp;#8217;s my not so new friend emacs that was there to lend a hand.</description>
+    </item>
+    
+    <item>
+      <title>M-x untabify to the rescue</title>
+      <link>https://socalranch.land/posts/2009-08-04-m-x-untabify-to-the-rescue/</link>
+      <pubDate>Tue, 04 Aug 2009 07:27:45 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-08-04-m-x-untabify-to-the-rescue/</guid>
+      <description>Since setting up at the new shop I have seen several issues with the legacy codebase that I am working with.
+The biggest thing that throws emacs off is the inconsistency&amp;#8217;s that tabs cause in various parts of the code. some places have no tabs others are all tabs for indentation. Since I don&amp;#8217;t really care one way or the other I finally googled &amp;#8216;emacs + tabs&amp;#8216; and learned about tabify/untabify.</description>
+    </item>
+    
+    <item>
+      <title>Emacs Quickie</title>
+      <link>https://socalranch.land/posts/2009-06-05-emacs-quickie/</link>
+      <pubDate>Fri, 05 Jun 2009 14:46:26 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-06-05-emacs-quickie/</guid>
+      <description>I stumbled across this today:
+C-u # C-x f &amp;#8211;&amp;gt; set-fill-column with the #arg.</description>
+    </item>
+    
+    <item>
+      <title>dotemacs debug</title>
+      <link>https://socalranch.land/posts/2009-05-29-dotemacs-debug/</link>
+      <pubDate>Fri, 29 May 2009 09:03:17 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-05-29-dotemacs-debug/</guid>
+      <description>I have been getting some strange errors on startup since I put my home directory under mercurial and have been trying to keep OSX Tiger(PPC) in sync with Leopard(Intel). Anyhow I was working through the errors on the Leopard box and got tired of quiting/restarting emacs. looking at an older post and doing a quick C-h k C-x C-e showed me that its an eval function. I have icicles installed so when I M-x eval TAB I got a list of all the eval commands available and there is the command of today:</description>
+    </item>
+    
+    <item>
+      <title>Emacs New Line</title>
+      <link>https://socalranch.land/posts/2009-05-21-emacs-new-line/</link>
+      <pubDate>Thu, 21 May 2009 09:53:34 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-05-21-emacs-new-line/</guid>
+      <description>I was doing exactly what this guy did here and it works like a charm &amp;#8230;
+ C-q C-j
+ </description>
+    </item>
+    
+    <item>
+      <title>Something Borrowed</title>
+      <link>https://socalranch.land/posts/2009-05-19-something-borrowed/</link>
+      <pubDate>Tue, 19 May 2009 08:17:39 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-05-19-something-borrowed/</guid>
+      <description>I am borrowing this from the emacs wiki.
+ ;; for swaping buffers between frames when the window is split
+(defun transpose-buffers (arg)
+&amp;#8220;Transpose the buffers shown in two windows.&amp;#8221;
+(interactive &amp;#8220;p&amp;#8221;)
+(let ((selector (if (&amp;gt;= arg 0) &amp;#8216;next-window &amp;#8216;previous-window)))
+(while (/= arg 0)
+(let ((this-win (window-buffer))
+(next-win (window-buffer (funcall selector))))
+(set-window-buffer (selected-window) next-win)
+(set-window-buffer (funcall selector) this-win)
+(select-window (funcall selector)))
+(setq arg (if (plusp arg) (1- arg) (1+ arg))))))</description>
+    </item>
+    
+    <item>
+      <title>M-x reverse-region</title>
+      <link>https://socalranch.land/posts/2009-04-16-m-x-reverse-region/</link>
+      <pubDate>Thu, 16 Apr 2009 11:30:51 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-04-16-m-x-reverse-region/</guid>
+      <description>There really is an M-x do-anything functionality built into emacs. I am building a form for a client and for some reason the select code they supplied has year options starting at 1920 and ending at 2009. SInce I highly doubt that we get many people who will choose 1920 through the site and because I don&amp;#8217;t want to annoy users who choose the most recent years I figured I would reverse the order, if I caould find M-x functionality that would let me do it fast.</description>
+    </item>
+    
+    <item>
+      <title>To Much Typing For Regexp Searches</title>
+      <link>https://socalranch.land/posts/2009-04-14-to-much-typing-for-regexp-searches/</link>
+      <pubDate>Tue, 14 Apr 2009 11:30:49 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-04-14-to-much-typing-for-regexp-searches/</guid>
+      <description>I have been getting better at using the regexp search functions in emacs. Today I got tired of all this typing: M-x search-forward-regexp so I bound it to this in my init file:
+ (global-set-key (kbd &amp;#8220;C-c sfr&amp;#8221;) &amp;#8216;search-forward-regexp)
+ Of couse I also bound the opposite:
+ (global-set-key (kbd &amp;#8220;C-c sbr&amp;#8221;) &amp;#8216;search-backward-regexp)
+ I know, I know, how did I get anything done when I had to type out all thise characters before.</description>
+    </item>
+    
+    <item>
+      <title>load-file and grep</title>
+      <link>https://socalranch.land/posts/2009-04-08-load-file/</link>
+      <pubDate>Wed, 08 Apr 2009 12:18:05 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-04-08-load-file/</guid>
+      <description>&lt;p&gt;M-x load-file is my emacs lisp friend. I am playing around with fizzbuzz.el and got tired of C-x C-e after an expression of C-j inside one so I googled around and learned about load-file.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;load-file is an interactive compiled Lisp function in `files.el&amp;#8217;.&lt;/p&gt;
+
+&lt;p&gt;(load-file file)&lt;/p&gt;
+
+&lt;p&gt;Load the Lisp file named file.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Just what I wanted to do, run my code all at once. If I had more time I could even bind a custom keystroke in my init file and not have to type all of that text out. Now if I could only figure out why only half of the numbers are printed to the *Messages* buffer? If I run the command with C-x C-e it does the same thing the first time, but on subsequent tries it will put all of the output I am expecting.&lt;/p&gt;
+
+&lt;p&gt;And, I figured out how to use grep from inside of emacs. I can&amp;#8217;t wait to have a change to try it out in my sandbox rather than on silly html forms.&lt;/p&gt;
+
+&lt;p&gt;Still getting the php yy_blah () out of memory error. So if I restart the server and the issue goes away, what does that mean? php has a limit on the amout of&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Matthews Fizzbuzz</title>
+      <link>https://socalranch.land/posts/2009-03-24-matthews-fizzbuzz/</link>
+      <pubDate>Tue, 24 Mar 2009 13:56:51 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-03-24-matthews-fizzbuzz/</guid>
+      <description>&lt;p&gt;During lunch I came across a reference to the fizzbuzz question (ie for the integers between 1-100 &amp;#8230; print fizz if the number is divisble by 3, buzz if divisible by 5 and fizzbuzz if divisible by both) in reading someone&amp;#8217;s blog. I have always said to myself, I need to see how long it will take me to solve that.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Javascript:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;var fizzbuzz = function(){&lt;/p&gt;
+
+&lt;p&gt;document.writeln(&amp;#8220;Matthews Fizzbuzz&amp;#8221;);&lt;/p&gt;
+
+&lt;p&gt;document.writeln(&amp;#8220;&lt;br /&gt;&amp;#8221;);&lt;/p&gt;
+
+&lt;p&gt;//an array to hold my numbers and numses&lt;/p&gt;
+
+&lt;p&gt;var nums = new Array();&lt;/p&gt;
+
+&lt;p&gt;for (x = 1; x &amp;lt; 101; ++x){&lt;/p&gt;
+
+&lt;p&gt;nums.push(x);&lt;/p&gt;
+
+&lt;p&gt;}&lt;/p&gt;
+
+&lt;p&gt;for (z=0; z &amp;lt; nums.length; ++z){&lt;/p&gt;
+
+&lt;p&gt;if(nums[z] % 3 == 0 &amp;amp;&amp;amp; nums[z] % 5 == 0){&lt;/p&gt;
+
+&lt;p&gt;document.writeln(&amp;#8220;fizzbuzz&amp;#8221; + &amp;#8220;&lt;br /&gt;&amp;#8221;);&lt;/p&gt;
+
+&lt;p&gt;}else if(nums[z] % 3 == 0){&lt;/p&gt;
+
+&lt;p&gt;document.writeln(&amp;#8220;fizz&amp;#8221; + &amp;#8220;&lt;br /&gt;&amp;#8221;);&lt;/p&gt;
+
+&lt;p&gt;}else if(nums[z] % 5 == 0){&lt;/p&gt;
+
+&lt;p&gt;document.writeln(&amp;#8220;buzz&amp;#8221; + &amp;#8220;&lt;br /&gt;&amp;#8221;);&lt;/p&gt;
+
+&lt;p&gt;}&lt;/p&gt;
+
+&lt;p&gt;else{&lt;/p&gt;
+
+&lt;p&gt;document.writeln(nums[z] + &amp;#8220;&lt;br /&gt;&amp;#8221;);&lt;/p&gt;
+
+&lt;p&gt;}&lt;/p&gt;
+
+&lt;p&gt;}&lt;/p&gt;
+
+&lt;p&gt;}&lt;/p&gt;
+
+&lt;p&gt;var start = new Date();&lt;/p&gt;
+
+&lt;p&gt;start = start.getTime(); Ã‚Â // returns millisecs since epoch which is what I want since this operation takes less than a second&lt;/p&gt;
+
+&lt;p&gt;start += parseInt( start );&lt;/p&gt;
+
+&lt;p&gt;fizzbuzz();&lt;/p&gt;
+
+&lt;p&gt;var end = new Date();&lt;/p&gt;
+
+&lt;p&gt;end = end.getTime();&lt;/p&gt;
+
+&lt;p&gt;end += parseInt( end );&lt;/p&gt;
+
+&lt;p&gt;document.writeln(&amp;#8220;This took &amp;#8221; + (end &amp;#8211; start) + &amp;#8221; milliseconds to run&amp;#8221;);&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Notes: it took me about five minutes give or take and I have seen it report between 2-4 milliseconds to run. The current program is 33 lines of code.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Emacs Lisp:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;;;print out&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Running With elisp</title>
+      <link>https://socalranch.land/posts/2009-03-24-running-with-elisp/</link>
+      <pubDate>Tue, 24 Mar 2009 07:12:35 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-03-24-running-with-elisp/</guid>
+      <description>I need to remember the other ways to run my elisp code. It will help to be able to do it inline when I want the resutls put into the documet I am editing, it will also help to be able to run a function from where my point currently is when I am figuring out somthing. To that end here are three ways to run elisp code:
+ C-j: will spit the result into the *scratch* buffer when testing scratch code there M-C-x: will echo the result into the mini buffer when the point is in the function C-xC-e: will echo the result into the mini buffer when point is just after the last )  These commands also work for atoms: expressions not in parens such as numbers, strings, characters and symbols.</description>
+    </item>
+    
+    <item>
+      <title>Best Thing Today</title>
+      <link>https://socalranch.land/posts/2009-03-17-best-thing-today/</link>
+      <pubDate>Tue, 17 Mar 2009 13:14:49 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-03-17-best-thing-today/</guid>
+      <description>Besides going home to see Hannah and Julie 🙂
+C-c C-f in php-mode. The output of M-x describe-key is as follows:
+ C-c C-f runs the command php-search-documentationÃ‚Â which is an interactive Lisp function in `php-mode.el&amp;#8217;.Ã‚Â It is bound to C-c C-f,   .Ã‚Â (php-search-documentation)Ã‚Â Search PHP documentation for the word at the point.
+ Yay. Thank you little buddy emacs.
+  </description>
+    </item>
+    
+    <item>
+      <title>emacs abbreviations.</title>
+      <link>https://socalranch.land/posts/2009-01-12-emacs-abbreviations/</link>
+      <pubDate>Mon, 12 Jan 2009 12:56:55 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-01-12-emacs-abbreviations/</guid>
+      <description>I stumbled on a link where that auther set up some custom abbreviations for emacs. This is just the thing to complement yasnippet mode. I set up about 11 custom abbreviations for editing forms with ARG&amp;#8217;s core custom data points. so now I can type the following and hit enter to get the desired form input:
+ ae -amp email: &amp;lt;input maxlength=&#34;50&#34; name=&#34;q1&#34; type=&#34;text&#34; value=&#34;&amp;lt;V1&amp;gt;&#34; /&amp;gt;   afn -first name: &amp;lt;input maxlength=&#34;</description>
+    </item>
+    
+    <item>
+      <title>More Fun with YASnippets</title>
+      <link>https://socalranch.land/posts/2009-01-08-more-fun-with-yasnippets/</link>
+      <pubDate>Thu, 08 Jan 2009 11:59:27 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-01-08-more-fun-with-yasnippets/</guid>
+      <description>Its really easy to write your on snippets so I made templates for frequently used js templates:
+func, if, if.else, if.elseif, loop.do, loop.for, loop.foreachin, loop.forin, loop.while, switch and try</description>
+    </item>
+    
+    <item>
+      <title>M-d (kill-word)</title>
+      <link>https://socalranch.land/posts/2008-12-03-m-d-kill-word/</link>
+      <pubDate>Wed, 03 Dec 2008 09:31:38 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2008-12-03-m-d-kill-word/</guid>
+      <description>I accidentally stumbled accress this yesterday and started using it in my editing today. Meta-d (M-d) will delete the entire string inside quotes. It also deleted tabs and spaces from the beginning of the line up to and including the first word it came to. Little things are fun and now I will happily spend the rest of today killing words. 🙂</description>
+    </item>
+    
+    <item>
+      <title>slime(y) confusion</title>
+      <link>https://socalranch.land/posts/2008-10-08-slimey-confusion/</link>
+      <pubDate>Wed, 08 Oct 2008 11:43:00 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2008-10-08-slimey-confusion/</guid>
+      <description>I was trying to run slime today to play with something and I kept getting this error:
+ debugger invoked on a SB-INT:SIMPLE-FILE-ERROR:
+Ã‚Â Ã‚Â Couldn&amp;#8217;t load
+Ã‚Â Ã‚Â #P&amp;#8221;/Users/matthew/.slime/fasl/2008-07-06/sbcl-1.0.21-darwin-x86/swank-sbcl.fasl&amp;#8221;:
+Ã‚Â Ã‚Â file does not exist.
+Type HELP for debugger help, or (SB-EXT:QUIT) to exit from SBCL.
+restarts (invokable by number or by possibly-abbreviated name):
+Ã‚Â Ã‚Â 0: [ABORT] Exit debugger, returning to top level.
+(LOAD
+Ã‚Â #P&amp;#8221;/Users/matthew/.slime/fasl/2008-07-06/sbcl-1.0.21-darwin-x86/swank-sbcl.fasl&amp;#8221;)[:EXTERNAL]
+ After googling and trying different things I found the problem.</description>
+    </item>
+    
+    <item>
+      <title>My New Favorite emacs Mode</title>
+      <link>https://socalranch.land/posts/2008-09-22-my-new-favorite-emacs-mode/</link>
+      <pubDate>Mon, 22 Sep 2008 16:33:00 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2008-09-22-my-new-favorite-emacs-mode/</guid>
+      <description>Just recently, I learned how to use tramp mode for working on our servers downtown. It could quite possibly be the most useful mode I have discovered in emacs; as far as helping me be more productive at work. It lets me stay in emacs for more things both on my local box and on the servers downtown all at the same time. Yay!Ã‚Â
+Now, If I could only figure out how to get code from the database by function id and then edit it in my local version of emacs and save the changes back to the db.</description>
+    </item>
+    
+    <item>
+      <title>emacs command</title>
+      <link>https://socalranch.land/posts/2008-09-15-emacs-command/</link>
+      <pubDate>Mon, 15 Sep 2008 14:41:30 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2008-09-15-emacs-command/</guid>
+      <description>C-M-/Ã‚Â
+the keystroke to invoke code completion in emacs. So far I have used it in html mode, js2 mode and php mode.</description>
+    </item>
+    
+  </channel>
+</rss>

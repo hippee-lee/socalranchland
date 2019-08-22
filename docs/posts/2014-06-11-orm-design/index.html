@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="author"
+    content="matth">
+<meta name="description"
+    content="Arguments No, not this ORM. Well not at the technical level I would expect to find myself at. It strikes me as odd that this is not more urgent for me. We have all the tools to, whats the phrase, turn the tables? Close, but not quite right. While fully acknowledging the inherit risks we should embrace the ability of our devices to track stuff. We can use it to our advantage, with a little help.
+" />
+<meta name="keywords" content="" />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://socalranch.land/posts/2014-06-11-orm-design/" />
+
+
+<title>
+    
+    ORM Design :: SoCal Ranch - a (sub)urban ranching experiment in organic and digital life 
+    
+</title>
+
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/css/flag-icon.min.css" rel="stylesheet"
+    type="text/css">
+
+
+
+<link rel="stylesheet" href="/main.min.8efdb2dab7d738e2f83c457831f04d6405c52d0308de7781a14182e93862f290.css">
+
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#252627">
+<link rel="shortcut icon" href="/favicon.ico">
+<meta name="theme-color" content="#252627"><meta itemprop="name" content="ORM Design">
+<meta itemprop="description" content="Arguments
+
+No, not this ORM. Well not at the technical level I would expect to find myself at. It strikes me as odd that this is not more urgent for me. We have all the tools to, whats the phrase, turn the tables? Close, but not quite right. While fully acknowledging the inherit risks we should embrace the ability of our devices to track stuff. We can use it to our advantage, with a little help.">
+
+
+<meta itemprop="datePublished" content="2014-06-11T16:07:38&#43;00:00" />
+<meta itemprop="dateModified" content="2014-06-11T16:07:38&#43;00:00" />
+<meta itemprop="wordCount" content="532">
+
+
+
+<meta itemprop="keywords" content="" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="ORM Design"/>
+<meta name="twitter:description" content="Arguments
+
+No, not this ORM. Well not at the technical level I would expect to find myself at. It strikes me as odd that this is not more urgent for me. We have all the tools to, whats the phrase, turn the tables? Close, but not quite right. While fully acknowledging the inherit risks we should embrace the ability of our devices to track stuff. We can use it to our advantage, with a little help."/>
+
+
+
+<meta property="article:section" content="(intro)Spection" />
+
+<meta property="article:published_time" content="2014-06-11 16:07:38 &#43;0000 &#43;0000" />
+
+
+
+
+
+
+
+    </head>
+
+    <body class="dark-theme">
+        <div class="container">
+            <header class="header">
+    <span class="header__inner">
+        <a href="https://socalranch.land/" style="text-decoration: none;">
+    <div class="logo">
+        
+            <span class="logo__mark">></span>
+            <span class="logo__text">hello</span>
+            <span class="logo__cursor"></span>
+        
+    </div>
+</a>
+
+
+        <span class="header__right">
+            
+
+            <span class="theme-toggle"><svg class="theme-toggler" width="24" height="24" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M22 41C32.4934 41 41 32.4934 41 22C41 11.5066 32.4934 3 22
+  3C11.5066 3 3 11.5066 3 22C3 32.4934 11.5066 41 22 41ZM7 22C7
+  13.7157 13.7157 7 22 7V37C13.7157 37 7 30.2843 7 22Z"/>
+</svg>
+</span>
+        </span>
+    </span>
+</header>
+
+
+            <div class="content">
+                
+    <main class="post">
+
+        <div class="post-info">
+            <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-clock"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>3 minutes
+
+            
+
+            </p>
+        </div>
+
+        <article>
+            <h1 class="post-title"><a href="https://socalranch.land/posts/2014-06-11-orm-design/">ORM Design</a></h1>
+
+            
+
+            <div class="post-content">
+                <h5 id="arguments">Arguments</h5>
+
+<p>No, not this <a href="http://en.wikipedia.org/wiki/Object-relational_mapping">ORM</a>. Well not at the technical level I would expect to find myself at. It strikes me as odd that this is not more urgent for me. We have all the tools to, whats the phrase, turn the tables? Close, but not quite right. While fully acknowledging the inherit risks we should embrace the ability of our devices to track stuff. We can use it to our advantage, with a little help.</p>
+
+<p>Think about the character Eminem plays in 8 Mile. Always the underdog trying to figure the system out. His moment of zen, or ken is when he works out what he needs to say ahead of the final showdown. He knows what the opponents are going to say. It&#8217;s already out there. The zen is that he switches his mind from thinking about how to attack the other rapper and just use &#8216;what everyone knows&#8217; and &#8216;common assumption&#8217; to his advantage.</p>
+
+<p>Sure, the algorithms today can be pretty accurate. But they can&#8217;t be emotional and they can&#8217;t be right all the time. The value is in identifying when they are wrong and using the information to your advantage. Big company&#8217;s have been collecting data on use for a long time. Since before the internet exploded. The internet explosion has enabled them to &#8216;do more with less&#8217; and other such things that translate into spend marketing dollars for an efficient and substantial return on investment. But they don&#8217;t give us that data back and they surely (I truly hope) share it with others who do give us some of that data back.</p>
+
+<p>So whats a poor non-technical human to do? How does one &#8216;attack&#8217; them with whats already out there? OnReMe is a personal spider that follows you around, connects the threads and weaves a web of behavior that you can see. So what does OnReMe need to start?</p>
+
+<h5 id="a-list-of-sources">A List of Sources</h5>
+
+<ul>
+<li>Web Browsing: all major browsers</li>
+<li>Social Media</li>
+<li>Websites: Personal (blog)</li>
+<li>Websites: eCommerce (What I shop for &amp; buy)</li>
+<li>Websites: news (What I read)</li>
+<li>Websites: engaged (forums, &#8216;discussion&#8217;)</li>
+<li>Crafted: This is what I see and hear in my head, about myself)</li>
+</ul>
+
+<h5 id="design">Design</h5>
+
+<p>What is the on boarding process? One has to want to create an image of themselves. This means Crafted is first and easy and flexible. Perhaps give it rudimentary export functionality: pdf and an angular app that can be hosted somewhere. The other parts are where the long term value lives. I know where I go, what interests me. I also know that when I go to those places, omg &#8211; they are tracking me. Yes, yes, yes. As idealistic as that battles sounds I would rather spend time with my family and think about how to &#8216;turn the tables&#8217; with the system as is today.</p>
+
+<p>Next, once there is small value in crafting my image and projecting that message out to whoever, I can pull in the other stuff and use that to refine and enhance the message for a particular channel. This is where Orm the personal spider comes in. She follows you around, connects the dots and helps you collect whats most important to you. This is OnReMe by design.</p>
+            </div>
+        </article>
+
+        <hr />
+
+        <div class="post-info">
+
+            <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>532 Words</p>
+
+            <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>2014-06-11 09:07 -0700</p>
+        </div>
+
+        
+            <div class="pagination">
+                <div class="pagination__title">
+                    <span class="pagination__title-h"></span>
+                    <hr />
+                </div>
+
+                <div class="pagination__buttons">
+                    
+                        <span class="button previous">
+                            <a href="https://socalranch.land/posts/2014-06-12-focus-on/">
+                                <span class="button__icon">←</span>
+                                <span class="button__text">Focus On</span>
+                            </a>
+                        </span>
+                    
+
+                    
+                        <span class="button next">
+                            <a href="https://socalranch.land/posts/2014-06-06-quiet-i-will-be/">
+                                <span class="button__text">Quiet I Will Be</span>
+                                <span class="button__icon">→</span>
+                            </a>
+                        </span>
+                    
+                </div>
+            </div>
+        
+
+        
+    </main>
+
+            </div>
+
+            
+                <footer class="footer">
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span>&copy; 2019</span>
+            
+            <span></span>
+            <span> <a href="https://socalranch.land/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a></span>
+        </div>
+    </div>
+    <div class="footer__inner">
+        <div class="footer__content">
+
+        </div>
+    </div>
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span>Powered by <a href="http://gohugo.io">Hugo</a></span>
+            <span>Made with &#10084; by <a href="https://github.com/rhazdon">rhazdon</a></span>
+        </div>
+    </div>
+</footer>
+
+            
+        </div>
+
+        
+
+
+
+
+<script type="text/javascript" src="/bundle.min.4c3fb12a087ceed4a52cb5d57068a9795c7069617a01ca70f788052ad66e1791779e6c72686e1dc0ca13dc03b0203204b6566bb0dd1ee80de2b7ff4d8fe53db2.js" integrity="sha512-TD&#43;xKgh87tSlLLXVcGipeVxwaWF6Acpw94gFKtZuF5F3nmxyaG4dwMoT3AOwIDIEtlZrsN0e6A3it/9Nj&#43;U9sg=="></script>
+
+
+
+    </body>
+</html>

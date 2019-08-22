@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UX on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</title>
+    <link>https://socalranch.land/tags/ux/</link>
+    <description>Recent content in UX on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Dec 2011 10:04:04 +0000</lastBuildDate>
+    
+	<atom:link href="https://socalranch.land/tags/ux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Good Choice To Lose</title>
+      <link>https://socalranch.land/posts/2011-12-23-a-good-choice-to-lose/</link>
+      <pubDate>Fri, 23 Dec 2011 10:04:04 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-12-23-a-good-choice-to-lose/</guid>
+      <description>&lt;p&gt;Since I had some issues that affected my productivity with google applications in Chrome I re-configured my system to use native apps for chat, mail and calendar. Overall I like the changes and the trade off is worth it since I do not have to log into my google account 30 times a day. I miss using one browser (especially with the three finger swipe down that shows me all of my tabs) but I still use it for development and other browsing. Seriously I counted the last day and it was 30 times google asked me to log in in chrome so I don&amp;#8217;t mind having all my apps in one place. Oddly, firefox and safari do not have this incessant logging in to google services issue with google services. Weird, I know. But I think I&amp;#8217;ll stick with Safari for my work apps accounts for now and use the native apps with personal accounts.&lt;/p&gt;
+
+&lt;p&gt;This leads me to my point. I was restoring some music to my itunes library and when I dragged and dropped it onto the itunes application I noticed that instead of asking me to choose and drag to Music or Movies, etc; it just highlighted the&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Flow</title>
+      <link>https://socalranch.land/posts/2011-02-04-flow/</link>
+      <pubDate>Fri, 04 Feb 2011 08:57:30 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-02-04-flow/</guid>
+      <description>As I work through the additions I realized what bothers me about the cms. It gets in the way of my flow. I can&amp;#8217;t just do a bunch of things and then save them. I have to do one thing, wait for the blocking ajax call. I thought the point of ajax was to let the user do other stuff while the service worked in the background.
+The system should be able to track where the user was and be able to quickly, )one click) get them back there.</description>
+    </item>
+    
+  </channel>
+</rss>

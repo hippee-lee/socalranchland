@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ToDo on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</title>
+    <link>https://socalranch.land/tags/todo/</link>
+    <description>Recent content in ToDo on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Mar 2018 05:19:47 +0000</lastBuildDate>
+    
+	<atom:link href="https://socalranch.land/tags/todo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Keys For Life</title>
+      <link>https://socalranch.land/posts/2018-03-07-keys-for-life/</link>
+      <pubDate>Wed, 07 Mar 2018 05:19:47 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2018-03-07-keys-for-life/</guid>
+      <description>I saw this ina stream and wanted to write it down. Marked as a todo in that I want to distill it into a less verbose list of action items.
+A team composed of several specialists (doctors, anthropologists, demographers, nutritionists, epidemiologists) – and led by Dan Buettner himself – travelled many times to the different blue zones. They identified the following nine general longevity factors, which are related to diet and lifestyle:</description>
+    </item>
+    
+  </channel>
+</rss>

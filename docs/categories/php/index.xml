@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>php on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</title>
+    <link>https://socalranch.land/categories/php/</link>
+    <description>Recent content in php on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Apr 2009 12:18:05 +0000</lastBuildDate>
+    
+	<atom:link href="https://socalranch.land/categories/php/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>load-file and grep</title>
+      <link>https://socalranch.land/posts/2009-04-08-load-file/</link>
+      <pubDate>Wed, 08 Apr 2009 12:18:05 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-04-08-load-file/</guid>
+      <description>&lt;p&gt;M-x load-file is my emacs lisp friend. I am playing around with fizzbuzz.el and got tired of C-x C-e after an expression of C-j inside one so I googled around and learned about load-file.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;load-file is an interactive compiled Lisp function in `files.el&amp;#8217;.&lt;/p&gt;
+
+&lt;p&gt;(load-file file)&lt;/p&gt;
+
+&lt;p&gt;Load the Lisp file named file.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Just what I wanted to do, run my code all at once. If I had more time I could even bind a custom keystroke in my init file and not have to type all of that text out. Now if I could only figure out why only half of the numbers are printed to the *Messages* buffer? If I run the command with C-x C-e it does the same thing the first time, but on subsequent tries it will put all of the output I am expecting.&lt;/p&gt;
+
+&lt;p&gt;And, I figured out how to use grep from inside of emacs. I can&amp;#8217;t wait to have a change to try it out in my sandbox rather than on silly html forms.&lt;/p&gt;
+
+&lt;p&gt;Still getting the php yy_blah () out of memory error. So if I restart the server and the issue goes away, what does that mean? php has a limit on the amout of&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Best Thing Today</title>
+      <link>https://socalranch.land/posts/2009-03-17-best-thing-today/</link>
+      <pubDate>Tue, 17 Mar 2009 13:14:49 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-03-17-best-thing-today/</guid>
+      <description>Besides going home to see Hannah and Julie 🙂
+C-c C-f in php-mode. The output of M-x describe-key is as follows:
+ C-c C-f runs the command php-search-documentationÃ‚Â which is an interactive Lisp function in `php-mode.el&amp;#8217;.Ã‚Â It is bound to C-c C-f,   .Ã‚Â (php-search-documentation)Ã‚Â Search PHP documentation for the word at the point.
+ Yay. Thank you little buddy emacs.
+  </description>
+    </item>
+    
+    <item>
+      <title>Julies Tips</title>
+      <link>https://socalranch.land/posts/2009-02-13-julies-tips/</link>
+      <pubDate>Fri, 13 Feb 2009 16:43:08 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-02-13-julies-tips/</guid>
+      <description>&lt;p&gt;I had Julie give me some feedback on the splash page/dashboard I have been working on. She gave good feedback that I was able to use to refine it a bit. I think she was a little afraid of hurting my feelings though but she shouldn&amp;#8217;t be, we are married after all.&lt;/p&gt;
+
+&lt;p&gt;I only pushed out the layout changes and the changes to the latest post. I still need to figure out where the weather widget(s) will go and how they will behave (as tabs or as content areas that dynamically expand when the user is interested in them. I am not sure. I also need to spend some time updating the categories and making sure they are all posted in in the right category. Categories will also need to be changed a bit so that they are all capitalized. The other thing I was going to do with cats is to make several main categories like Outdoors (or Computers, Home, Cars, ) that all of the riding, hiking stuff can go under, then it will rise to the top of the top category&amp;#8217;s script when those links are generated. Maybe I write my ideas down and have my better&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hmmm PHP5</title>
+      <link>https://socalranch.land/posts/2009-02-10-hmmm-php5/</link>
+      <pubDate>Tue, 10 Feb 2009 09:59:06 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-02-10-hmmm-php5/</guid>
+      <description>After I upgraded php and wordpress to 2.7 I started getting out of dynamic memory errors. Here is what I am seeing:
+ Fatal error: out of dynamic memory in yy_create_buffer() in /path/to/my-blog/wp/wp-admin/post.php on line 12
+ I upped my memory_limit to 256 to give it more to work with but that doesn&amp;#8217;t seem to be enough. I&amp;#8217;ll have to dig around in php.ini and on wordpress.org to see if anyone else has run across this.</description>
+    </item>
+    
+    <item>
+      <title>DIY Mochas</title>
+      <link>https://socalranch.land/posts/2009-01-07-diy-mochas/</link>
+      <pubDate>Wed, 07 Jan 2009 10:21:57 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-01-07-diy-mochas/</guid>
+      <description>Make a home-made Mocha:
+1) brew some yummy costa rican coffee
+2) in coffee cup add some coffee mate + two spoonfulls of cocoa
+3) pour in an equal amount of hot coffee
+4) stir until cocoa substrate is all in solution
+5) fill cup with the rest of your coffee
+6) enjoy!
+In other news I came across some very useful code for dealing with dates in php:
+strtotime() is a php function that takes a wide range of text inputs and returns a unix timestamp.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTML/CSS on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</title>
+    <link>https://socalranch.land/categories/html/css/</link>
+    <description>Recent content in HTML/CSS on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Dec 2015 19:41:06 +0000</lastBuildDate>
+    
+	<atom:link href="https://socalranch.land/categories/html/css/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modifying Phone Links For Screens</title>
+      <link>https://socalranch.land/posts/2015-12-15-modifying-phone-links-for-screens/</link>
+      <pubDate>Tue, 15 Dec 2015 19:41:06 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2015-12-15-modifying-phone-links-for-screens/</guid>
+      <description>Your Problem So you have a link thats a phone number. You have this because you want the link to auto dial when on a phone but look like text and not have any functionality when on a screen larger than a phone. As an engineer you don&amp;#8217;t want to duplicate html to provide this feature and would love if css had a way to encapsulate this on one place.</description>
+    </item>
+    
+    <item>
+      <title>Un Using Chrome</title>
+      <link>https://socalranch.land/posts/2011-12-19-un-using-chrome/</link>
+      <pubDate>Mon, 19 Dec 2011 15:47:35 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-12-19-un-using-chrome/</guid>
+      <description>&lt;p&gt;Today, I gave up on using chrome for google apps. Ever since they opened up google+ for public use they changed something about the authentication system and my computer running chrome really does not like it. It makes me log in to each app multiple times per day. Intermittently I would get the you must enable javascript or clearn you cache and cookies blah blah blah. Well its been several months and JavaScript has always been enabled. I think my cache and cookies are clear enough to fry an egg on.&lt;/p&gt;
+
+&lt;p&gt;I have even tried to uninstall and re-install but not that the time spent trying to figure out why wants me to log in for each app, multiple time a day it is time to use tool that don&amp;#8217;t get in the way of what I need or want to do and re-logging into a web service multiple times a day is not what I want to do.&lt;/p&gt;
+
+&lt;p&gt;So I went back to firefox for google plus and the document s. I am going to use apples mail and cal apps for those accounts. I guess the plus side is that I don&amp;#8217;t need to see any of the adds &amp;#8211;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Walking Nashau</title>
+      <link>https://socalranch.land/posts/2010-04-14-walking-nashau/</link>
+      <pubDate>Wed, 14 Apr 2010 14:33:49 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2010-04-14-walking-nashau/</guid>
+      <description>After day two of the CMS training in Nashau, NH i taxied over to Greely Park and walked along the river.
+i was reminded how much fun it is to pretend to be an explorer when walking in the woods, just like I used to do in the Ravine at my childhood home. I think the light filtering through the trees had something to do with it.
+I decided to save the $10 cab fare and walk home through some nice nieghborhoods.</description>
+    </item>
+    
+    <item>
+      <title>Unbracket Anything</title>
+      <link>https://socalranch.land/posts/2009-04-29-unbracket-anything/</link>
+      <pubDate>Wed, 29 Apr 2009 21:31:05 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-04-29-unbracket-anything/</guid>
+      <description>Interesting, you can remove everyhing between bracktes (&amp;lt;&amp;gt;). It works with html and I think it handle xml but didn&amp;#8217;t test that for my homework.
+sed &amp;#8216;s/&amp;lt; [^&amp;gt;]*//g&amp;#8217;
+It finds the first &amp;lt; character and then deletes all text up to and including the next &amp;gt; character. Interesting.
+You could rehtml stuff but it might take several different scripts. There may be better ways to rehtml stuff.</description>
+    </item>
+    
+    <item>
+      <title>Having fun with nested tables &amp;#8230;</title>
+      <link>https://socalranch.land/posts/2008-11-24-having-fun-with-nested-tables/</link>
+      <pubDate>Mon, 24 Nov 2008 10:50:55 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2008-11-24-having-fun-with-nested-tables/</guid>
+      <description>Having fun with nested tables and forms designed in the late 90&amp;#8217;s. If only I ruled the world would things be different. Someday.</description>
+    </item>
+    
+  </channel>
+</rss>

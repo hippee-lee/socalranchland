@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mail on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</title>
+    <link>https://socalranch.land/tags/mail/</link>
+    <description>Recent content in Mail on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Sep 2012 22:56:42 +0000</lastBuildDate>
+    
+	<atom:link href="https://socalranch.land/tags/mail/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Back To Sorting</title>
+      <link>https://socalranch.land/posts/2012-09-20-back-to-sorting/</link>
+      <pubDate>Thu, 20 Sep 2012 22:56:42 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2012-09-20-back-to-sorting/</guid>
+      <description>&lt;p&gt;Not the algorithmic kind, the real kind. The kind of sorting that was around long before even the &lt;a href=&#34;http://en.wikipedia.org/wiki/Antikythera_mechanism&#34;&gt;first computer&lt;/a&gt;. Back then, perhaps I had some coins. Coins used to be a popular way to facilitate exchanges. So there we were back when this ancient computer was built. But we didn&amp;#8217;t care about  the computer. I had coins, you had beans, lets talk and make an exchange. Being competitive, I wanted as many of your beans for as few of my coins as possible. And thats where sorting comes in.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

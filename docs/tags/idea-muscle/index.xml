@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Idea Muscle on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</title>
+    <link>https://socalranch.land/tags/idea-muscle/</link>
+    <description>Recent content in Idea Muscle on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 May 2012 09:49:04 +0000</lastBuildDate>
+    
+	<atom:link href="https://socalranch.land/tags/idea-muscle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cool UI For Property Search</title>
+      <link>https://socalranch.land/posts/2012-05-01-cool-ui-for-property-search/</link>
+      <pubDate>Tue, 01 May 2012 09:49:04 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2012-05-01-cool-ui-for-property-search/</guid>
+      <description>I came across PadMapper.com on Hacker News and being in the market took a look. I liked what I saw, being in the market there is not much to like about the real estate industry. From the way they federate their data and make it as hard as possible for their customers to find what they are looking for, to the cumbersome option selection they provide.
+What I liked about PadMappers UI is this:</description>
+    </item>
+    
+    <item>
+      <title>ToDo List</title>
+      <link>https://socalranch.land/posts/2012-04-21-todo-list/</link>
+      <pubDate>Sat, 21 Apr 2012 15:46:09 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2012-04-21-todo-list/</guid>
+      <description>This is at the top of Paul Grahams ToDo list:
+ Don&amp;#8217;t ignore your dreams; don&amp;#8217;t work too much; say what you think; cultivate friendships; be happy.
+ http://paulgraham.com/todo.html</description>
+    </item>
+    
+    <item>
+      <title>The Land Of Pleasant Surprises</title>
+      <link>https://socalranch.land/posts/2011-11-10-the-land-of-pleasant-surprises/</link>
+      <pubDate>Thu, 10 Nov 2011 06:55:07 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-11-10-the-land-of-pleasant-surprises/</guid>
+      <description>&lt;p&gt;Julie had a long day yesterday. She is in her yearly crunch time with the end of the year stuff they do and yesterday she also had an appointment to disguise her true hair color from me 😉&lt;/p&gt;
+
+&lt;p&gt;So Hannah got me up at 5:15ish in the morning and we saw her off and then played games. I took her to school and then finished up my testing on how to automatically convert a range of productivity documents into images or pdfs based on the file extension. It works and I hope it helps ease the users pain so that they can work with the tools their company provides for them in a way that interacts more seamlessly with our tool.&lt;/p&gt;
+
+&lt;p&gt;Perhaps thats what life should be about. Finding someones pain and creating a way to help deal with it. No one can take pain away. I can ease some of it away through acknowledgment; ven implied acknowledgement with a new workflow in the application, can go a long way to easing someones pain. And then they can redirect their efforts towards things that are important to them which will hopefully ease their pain.&lt;/p&gt;
+
+&lt;p&gt;Then I picked Hannah up from school and boy did&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

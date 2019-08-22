@@ -1,0 +1,12 @@
+---
+id: 39
+title: I Timed it Perfectly
+date: 2008-05-23T06:02:50+00:00
+author: matth
+layout: post
+guid: http://propri.us/wp/?p=39
+permalink: /2008/05/23/i-timed-it-perfectly/
+categories:
+  - Hannah
+---
+You and momma went to bed early, around 8:00 or so. I watched &#8216;Planet Earth&#8217; for a little while and then I heard you at 10:00. You were happily awake. We went into the laundry room and got you set up with a fresh, dry diaper. The whole time you were talking and looking at stuff. Did you like the shadows made by the batheroom light? Were you trying to tell me that you were happy? Then we went into the routine fall asleep mode. I start by putting you on my left side with my arms keeping you close to my shoulder. We walk around for a little bit and then, because you are getting so big now, I sit down in the rocker. Now you stop talking and start getting comfortable. First you rest your little head on top of my shoulder. Then you nuzzle into the side of my neck. You are so warm and pleasent smelling, I softly hum a little bit to lull you under but you like to fight sleep for a bit. This time, the only sounds you make are getting comfortable sounds. When my neck doesn&#8217;t twork out for you, you sink lower<!--more--> and rest your head on my chest. This is new for you since it makes you be more lateral and on your stomach. It almost works but not quite yet; you straighten your legs and pull your self back up to my shoulder. As I hum you try the outside of my shoulder but that makes your neck tilt at an awkward angle. This time, when I hum a familiar melody (Twinkle Twinkle Little Star), I pull your head back over to the crook in between my shoulder and neck. Its like magic, your arms relax and the feet stop moving. your breathing starts to slow and I breath slower too. I try to take one breath for every two of yours. I hope this helps you relax. Your breath slows even more and there are minor twitches happening in your small hands and feet. Your beathing slows even more and I match it with my own. You are just about to go under so I firmly press you to my body and stand up. I gently lower you into the crib and hold you close as long as I can. You only startle a once and then relax onto your back. I think that you like your side better so I roll you over to it and you put one arm under your head while the other one just dangles in from of your face. Every thing was just right this time, I timed it perfectly.

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photos on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</title>
+    <link>https://socalranch.land/tags/photos/</link>
+    <description>Recent content in Photos on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Apr 2012 15:27:41 +0000</lastBuildDate>
+    
+	<atom:link href="https://socalranch.land/tags/photos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Egg Hunt</title>
+      <link>https://socalranch.land/posts/2012-04-06-egg-hunt/</link>
+      <pubDate>Fri, 06 Apr 2012 15:27:41 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2012-04-06-egg-hunt/</guid>
+      <description>An annual Friday afternoon egg hunt &amp;#8230;</description>
+    </item>
+    
+    <item>
+      <title>Summer Lightning</title>
+      <link>https://socalranch.land/posts/2011-07-13-summer-lightning/</link>
+      <pubDate>Wed, 13 Jul 2011 22:07:53 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-07-13-summer-lightning/</guid>
+      <description>%%wppa%%
+%%slide=5%%</description>
+    </item>
+    
+  </channel>
+</rss>

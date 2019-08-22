@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JavaScript on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</title>
+    <link>https://socalranch.land/tags/javascript/</link>
+    <description>Recent content in JavaScript on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Mar 2012 21:03:29 +0000</lastBuildDate>
+    
+	<atom:link href="https://socalranch.land/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The New Slideshow</title>
+      <link>https://socalranch.land/posts/2012-03-08-the-new-slideshow/</link>
+      <pubDate>Thu, 08 Mar 2012 21:03:29 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2012-03-08-the-new-slideshow/</guid>
+      <description>&lt;p&gt;I have come across several neat JavaScript programs that take advantage of all the CSS3 fun you can do in modern browsers. Each time I see a new one idas go racing through my head. I can do this or that or &amp;#8230;.&lt;/p&gt;
+
+&lt;p&gt;A couple weeks ago I got one of those mailer brochures from a credit card company with pretty images and pithy tag lines telling me all about their product. I don&amp;#8217;t need any more credit cards right now. But it did get me thinking, how could I do this on a webpage? So I marked it up with one of Hannah&amp;#8217;s pens into some simple markup for the different pieces on each page and put it on my desk. Then I cleaned the office and tossed it. However, the idea continued to roll around in my head and about a week later I finished reading &lt;a href=&#34;http://www.thestartupofyou.com/&#34;&gt;The Start Up Of You&lt;/a&gt;. I joined the group on LinkedIn. Why not, I have been spending quite a bit of time on there looking for reasonable jobs lately. So it was easy to join and nice to come across variations of ideas in the book as well as intelligent discussion about how to&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Take it on and Take it off</title>
+      <link>https://socalranch.land/posts/2011-02-15-take-it-on-and-take-it-off/</link>
+      <pubDate>Tue, 15 Feb 2011 22:43:44 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-02-15-take-it-on-and-take-it-off/</guid>
+      <description>I am amazed at how long I went with out installing js2-mode on the netbook. To make it easy, I used the emacs default kit for saner defaults. Seems to work nicely.
+I haven&amp;#8217;t been back to the orc battle since Christmas. I have been coding with the ruby koans and a fun little js project I am calling ticker. The idea is to use only pure js to make elements on a page tick, like a digital clock ticks its nuimbers away.</description>
+    </item>
+    
+  </channel>
+</rss>

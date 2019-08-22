@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sed on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</title>
+    <link>https://socalranch.land/tags/sed/</link>
+    <description>Recent content in sed on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Apr 2011 10:36:26 +0000</lastBuildDate>
+    
+	<atom:link href="https://socalranch.land/tags/sed/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Working with sed and tabs</title>
+      <link>https://socalranch.land/posts/2011-04-15-working-with-sed-and-tabs/</link>
+      <pubDate>Fri, 15 Apr 2011 10:36:26 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-04-15-working-with-sed-and-tabs/</guid>
+      <description>sed -i &amp;#8216;s/[&amp;#8211;TAB&amp;#8211;]/ /g&amp;#8217; file.txt
+In place of --TAB-- , give CTRL + V followed by TAB.
+&amp;nbsp;
+http://www.atoztoa.com/2008/12/replace-tab-using-sed.html</description>
+    </item>
+    
+  </channel>
+</rss>

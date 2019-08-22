@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Communication on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</title>
+    <link>https://socalranch.land/tags/communication/</link>
+    <description>Recent content in Communication on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 May 2013 09:55:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://socalranch.land/tags/communication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thoughts About Content</title>
+      <link>https://socalranch.land/posts/2013-05-15-thoughts-about-content/</link>
+      <pubDate>Wed, 15 May 2013 09:55:51 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2013-05-15-thoughts-about-content/</guid>
+      <description>A reoccurring theme in any business is the marketing and &amp;#8216;systematic&amp;#8217; communication that needs to take place between a company and a customer. I have been working on something like this during the past sprint. Except that even with a complex system it is still manual to update the content, ie the message. Further complicating this is that as undesirable (IMO) as email is, it is still a requirement for customer outreach.</description>
+    </item>
+    
+  </channel>
+</rss>

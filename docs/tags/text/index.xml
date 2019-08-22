@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>text on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</title>
+    <link>https://socalranch.land/tags/text/</link>
+    <description>Recent content in text on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Sep 2011 14:10:32 +0000</lastBuildDate>
+    
+	<atom:link href="https://socalranch.land/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Working With Excel Data</title>
+      <link>https://socalranch.land/posts/2011-09-26-working-with-excel-data/</link>
+      <pubDate>Mon, 26 Sep 2011 14:10:32 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-09-26-working-with-excel-data/</guid>
+      <description>Excel is blah to work with. A client gives us data made with it though and they put symbols in the text. After trying to cat out the tsv file I found this solution from within emacs:
+M-x replace-regexp&amp;lt;br /&amp;gt; [[:nonascii:]] RET RET
+It found and replaced the pesky tm symbols in the text file with nothing. I wonder if the [[:nonascii:]] char class is available on the command line in awk or sed?</description>
+    </item>
+    
+  </channel>
+</rss>

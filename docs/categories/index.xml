@@ -6,9 +6,379 @@
     <description>Recent content in Categories on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 11 Apr 2018 16:39:02 +0000</lastBuildDate>
     
 	<atom:link href="https://socalranch.land/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>(intro)Spection</title>
+      <link>https://socalranch.land/categories/introspection/</link>
+      <pubDate>Wed, 11 Apr 2018 16:39:02 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/introspection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncategorized</title>
+      <link>https://socalranch.land/categories/uncategorized/</link>
+      <pubDate>Fri, 31 Mar 2017 04:27:03 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/uncategorized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AtWork</title>
+      <link>https://socalranch.land/categories/atwork/</link>
+      <pubDate>Wed, 03 Feb 2016 22:35:59 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/atwork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing</title>
+      <link>https://socalranch.land/categories/computing/</link>
+      <pubDate>Tue, 15 Dec 2015 19:41:06 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML/CSS</title>
+      <link>https://socalranch.land/categories/html/css/</link>
+      <pubDate>Tue, 15 Dec 2015 19:41:06 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/html/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UI/UX</title>
+      <link>https://socalranch.land/categories/ui/ux/</link>
+      <pubDate>Tue, 15 Dec 2015 19:41:06 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/ui/ux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AtHome</title>
+      <link>https://socalranch.land/categories/athome/</link>
+      <pubDate>Sat, 08 Aug 2015 04:25:32 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/athome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Family</title>
+      <link>https://socalranch.land/categories/family/</link>
+      <pubDate>Sat, 08 Aug 2015 04:25:32 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/family/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hannah</title>
+      <link>https://socalranch.land/categories/hannah/</link>
+      <pubDate>Sat, 08 Aug 2015 04:25:32 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/hannah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matt</title>
+      <link>https://socalranch.land/categories/matt/</link>
+      <pubDate>Sat, 08 Aug 2015 04:25:32 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/matt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hack</title>
+      <link>https://socalranch.land/categories/hack/</link>
+      <pubDate>Fri, 15 May 2015 15:41:56 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/hack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backpacking</title>
+      <link>https://socalranch.land/categories/backpacking/</link>
+      <pubDate>Sun, 29 Mar 2015 20:11:03 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/backpacking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>https://socalranch.land/categories/javascript/</link>
+      <pubDate>Wed, 25 Mar 2015 00:21:40 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Milestone</title>
+      <link>https://socalranch.land/categories/milestone/</link>
+      <pubDate>Wed, 25 Mar 2015 00:21:40 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/milestone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Goals</title>
+      <link>https://socalranch.land/categories/goals/</link>
+      <pubDate>Sun, 15 Mar 2015 23:44:06 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/goals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Thought</title>
+      <link>https://socalranch.land/categories/visual-thought/</link>
+      <pubDate>Sun, 01 Mar 2015 19:22:27 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/visual-thought/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>10 Ideas</title>
+      <link>https://socalranch.land/categories/10-ideas/</link>
+      <pubDate>Thu, 19 Feb 2015 13:38:04 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/10-ideas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toys</title>
+      <link>https://socalranch.land/categories/toys/</link>
+      <pubDate>Thu, 08 Jan 2015 01:09:12 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/toys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movies</title>
+      <link>https://socalranch.land/categories/movies/</link>
+      <pubDate>Mon, 08 Dec 2014 14:45:22 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/movies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lunchbox Doodle</title>
+      <link>https://socalranch.land/categories/lunchbox-doodle/</link>
+      <pubDate>Wed, 03 Sep 2014 14:12:39 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/lunchbox-doodle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julie</title>
+      <link>https://socalranch.land/categories/julie/</link>
+      <pubDate>Sat, 14 Jun 2014 21:13:18 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/julie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://socalranch.land/categories/music/</link>
+      <pubDate>Fri, 06 Jun 2014 06:10:57 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Snowboarding</title>
+      <link>https://socalranch.land/categories/snowboarding/</link>
+      <pubDate>Fri, 06 Jun 2014 06:10:57 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/snowboarding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weather</title>
+      <link>https://socalranch.land/categories/weather/</link>
+      <pubDate>Mon, 28 Apr 2014 02:03:30 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/weather/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>https://socalranch.land/categories/books/</link>
+      <pubDate>Fri, 21 Mar 2014 13:54:27 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://socalranch.land/categories/blog/</link>
+      <pubDate>Tue, 04 Mar 2014 05:33:22 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Riding</title>
+      <link>https://socalranch.land/categories/riding/</link>
+      <pubDate>Sat, 05 Oct 2013 17:55:41 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/riding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pets</title>
+      <link>https://socalranch.land/categories/pets/</link>
+      <pubDate>Fri, 06 Sep 2013 03:56:04 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/pets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reading</title>
+      <link>https://socalranch.land/categories/reading/</link>
+      <pubDate>Thu, 25 Jul 2013 21:16:51 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/reading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>https://socalranch.land/categories/travel/</link>
+      <pubDate>Thu, 04 Jul 2013 16:14:39 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Horseback</title>
+      <link>https://socalranch.land/categories/horseback/</link>
+      <pubDate>Thu, 28 Feb 2013 08:13:05 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/horseback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dad</title>
+      <link>https://socalranch.land/categories/dad/</link>
+      <pubDate>Wed, 18 Apr 2012 15:31:04 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/dad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mom</title>
+      <link>https://socalranch.land/categories/mom/</link>
+      <pubDate>Wed, 18 Apr 2012 15:31:04 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/mom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emacs</title>
+      <link>https://socalranch.land/categories/emacs/</link>
+      <pubDate>Mon, 26 Sep 2011 14:10:32 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/emacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plants</title>
+      <link>https://socalranch.land/categories/plants/</link>
+      <pubDate>Sun, 11 Sep 2011 19:23:33 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/plants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mack</title>
+      <link>https://socalranch.land/categories/mack/</link>
+      <pubDate>Sat, 06 Aug 2011 17:05:26 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/mack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mountain Biking</title>
+      <link>https://socalranch.land/categories/mountain-biking/</link>
+      <pubDate>Sun, 02 May 2010 08:54:56 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/mountain-biking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katie</title>
+      <link>https://socalranch.land/categories/katie/</link>
+      <pubDate>Wed, 31 Mar 2010 18:34:16 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/katie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commuting</title>
+      <link>https://socalranch.land/categories/commuting/</link>
+      <pubDate>Wed, 03 Jun 2009 15:21:20 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/commuting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auto</title>
+      <link>https://socalranch.land/categories/auto/</link>
+      <pubDate>Sun, 24 May 2009 12:44:11 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/auto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>php</title>
+      <link>https://socalranch.land/categories/php/</link>
+      <pubDate>Wed, 08 Apr 2009 12:18:05 +0000</pubDate>
+      
+      <guid>https://socalranch.land/categories/php/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

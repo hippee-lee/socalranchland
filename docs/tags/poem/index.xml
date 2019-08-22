@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>poem on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</title>
+    <link>https://socalranch.land/tags/poem/</link>
+    <description>Recent content in poem on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Mar 2011 23:15:33 +0000</lastBuildDate>
+    
+	<atom:link href="https://socalranch.land/tags/poem/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Empty Mind</title>
+      <link>https://socalranch.land/posts/2011-03-09-empty-mind/</link>
+      <pubDate>Wed, 09 Mar 2011 23:15:33 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-03-09-empty-mind/</guid>
+      <description>Focus on the line
+It will disappear in time
+Ride the spring in life  </description>
+    </item>
+    
+    <item>
+      <title>Drive</title>
+      <link>https://socalranch.land/posts/2011-02-17-drive/</link>
+      <pubDate>Thu, 17 Feb 2011 08:26:24 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-02-17-drive/</guid>
+      <description>Sunshine in the east.
+A storm brewing to the west.
+Take the scenic route.  It was one of those days, there was traffic on Dillon, more than I expected. It was a good thing; I got to spend more than ten minutes watching the world change as the weather front moved in over the front range.</description>
+    </item>
+    
+  </channel>
+</rss>

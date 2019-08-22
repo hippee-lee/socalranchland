@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Climbing on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</title>
+    <link>https://socalranch.land/tags/climbing/</link>
+    <description>Recent content in Climbing on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Feb 2011 22:43:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://socalranch.land/tags/climbing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Take it on and Take it off</title>
+      <link>https://socalranch.land/posts/2011-02-15-take-it-on-and-take-it-off/</link>
+      <pubDate>Tue, 15 Feb 2011 22:43:44 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-02-15-take-it-on-and-take-it-off/</guid>
+      <description>I am amazed at how long I went with out installing js2-mode on the netbook. To make it easy, I used the emacs default kit for saner defaults. Seems to work nicely.
+I haven&amp;#8217;t been back to the orc battle since Christmas. I have been coding with the ruby koans and a fun little js project I am calling ticker. The idea is to use only pure js to make elements on a page tick, like a digital clock ticks its nuimbers away.</description>
+    </item>
+    
+  </channel>
+</rss>

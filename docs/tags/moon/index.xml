@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moon on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</title>
+    <link>https://socalranch.land/tags/moon/</link>
+    <description>Recent content in Moon on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Dec 2011 21:19:47 +0000</lastBuildDate>
+    
+	<atom:link href="https://socalranch.land/tags/moon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Face In The Moon</title>
+      <link>https://socalranch.land/posts/2011-12-22-a-face-in-the-moon/</link>
+      <pubDate>Thu, 22 Dec 2011 21:19:47 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-12-22-a-face-in-the-moon/</guid>
+      <description>I&amp;#8217;m impressed, iPhoto&amp;#8217;s facial recognition software can also id the moon. I mean, I have always known that there was a man on the moon and that when it was full there was an eye and nose that are clearly visible so I guess it would be a good training object.Is This The Moon?</description>
+    </item>
+    
+  </channel>
+</rss>

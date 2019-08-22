@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>troubleshooting on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</title>
+    <link>https://socalranch.land/tags/troubleshooting/</link>
+    <description>Recent content in troubleshooting on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Feb 2012 09:16:40 +0000</lastBuildDate>
+    
+	<atom:link href="https://socalranch.land/tags/troubleshooting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Easy Toolchain</title>
+      <link>https://socalranch.land/posts/2012-02-21-an-easy-toolchain/</link>
+      <pubDate>Tue, 21 Feb 2012 09:16:40 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2012-02-21-an-easy-toolchain/</guid>
+      <description>&lt;p&gt;I learned about tools from my dad. He used to fix everything us kiddos broke around the house and the cars and other engine driven things we used. I remember he had a method that included starting from the problem and working backwards through the solution. I spent alot of time bored out of my mind, holding his tools. Sometimes I was sent to get different tools but usually he brought a couple of different general purpose tools and was able to make due with them.&lt;/p&gt;
+
+&lt;p&gt;Its funny, the more I learn about software and software development, even from a web slanted view, it all depends on the tools you use. It depends on the tools that work best with your style. I have been keeping my personal projects and org-mode files under version control at bitbucket with mercurial for a few years now and while not completely immersed in the distributed version control environment, I am drawn to the benefits of it. Namely being able to commit to my repo whenever and whereever I am internt access or no internet access.&lt;/p&gt;
+
+&lt;p&gt;As I ramp up the search for opportunities in the next phase there are a lot of things I still need&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shared Hosting, Good Times</title>
+      <link>https://socalranch.land/posts/2011-05-06-shared-hosting-good-times/</link>
+      <pubDate>Fri, 06 May 2011 08:53:33 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-05-06-shared-hosting-good-times/</guid>
+      <description>&lt;figure id=&#34;attachment_2268&#34; style=&#34;width: 189px&#34; class=&#34;wp-caption aligncenter&#34;&gt;&lt;a rel=&#34;attachment wp-att-2268&#34; href=&#34;http://hippeelee.com/blog/2011/05/shared-hosting-good-times/uh-oh/&#34;&gt;&lt;img class=&#34;size-full wp-image-2268&#34; title=&#34;Site Error&#34; src=&#34;http://hippeelee.com/blog/wp-content/uploads/2011/05/uh-oh.jpeg&#34; alt=&#34;There was an error&#34; width=&#34;189&#34; height=&#34;56&#34; /&gt;&lt;/a&gt;&lt;figcaption class=&#34;wp-caption-text&#34;&gt;There was an error &lt;/figcaption&gt;&lt;/figure&gt; 
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Notes to myself. Using the bluehost site backup tools did not go as expected. One minute there were 300+ public posts the next day there were 72. Weird I thought. I am happy that I did a manual dump last month. Here are the steps I took to restore my content:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Export the remaning blog posts with the export function from my wp-admin export page. Lucky for me the sites small and I can just export everything and still get a reasonably sized file.&lt;/li&gt;
+&lt;li&gt;From my laptop:&lt;/li&gt;
+&lt;li&gt;scp last-months-database-backup.sql to my bluehost account&lt;/li&gt;
+&lt;li&gt;Log into bluehost command line and run the following:&lt;/li&gt;
+&lt;li&gt;mysqldump -u -p dbname wp_users &amp;gt; wp-users.sql&lt;/li&gt;
+&lt;li&gt;Open the command line mysql client: mysql -u -p dbname&lt;/li&gt;
+&lt;li&gt;On the mysql command line client: use dbname&lt;/li&gt;
+&lt;li&gt;On the mysql command line client: source last-months-database-backup.sql&lt;/li&gt;
+&lt;li&gt;On the mysql command line client: source wp-users.sql (I think there was a confilct when I did step #9&lt;/li&gt;
+&lt;li&gt;Go back to the website admin import area&lt;/li&gt;
+&lt;li&gt;Use the wprdpress admin import function select the file created in step #1.&lt;/li&gt;
+&lt;li&gt;Be happy I can do this for myself 🙂&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Happy Friday!&lt;/p&gt;
+
+&lt;p&gt;I think its Time to write my own script that I can run from my laptop. Here is what I&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Trouble Shootin</title>
+      <link>https://socalranch.land/posts/2009-02-02-trouble-shootin-2/</link>
+      <pubDate>Mon, 02 Feb 2009 15:02:25 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2009-02-02-trouble-shootin-2/</guid>
+      <description>&lt;p&gt;Trouble shooting with dad; tonight&amp;#8217;s session:&lt;/p&gt;
+
+&lt;p&gt;Starting with iPhoto, we went over some basic things to get started. I showed him navigating in the iPhoto app itself. We went to one of the recent items and looked at the pictures there, the photo library and an album that already existed. Then, I had him make a new photo album, multi select several photos and add them to the new album. Then we renamed the newly created album. Next we made a slide show from the photo album. We selected all the pictures in the new album &amp;#8216;chris&amp;#8217; and modifed some of the slideshow settings.&lt;/p&gt;
+
+&lt;p&gt;Then we moved on to trouble shooting the scanning issue. First, we made sure all images in the scanned photos folder had been imported into iPhoto, then we deleted the old scans. The HP Scan software was having trouble connecting to his scanner so I deleted the printer and re-added it using the system preferences &amp;#8211;&amp;gt; print &amp;amp; fax. This re-installed the drivers for his printer. Next, we went through the scanning procedure that he is already familiar with: start HP Scan, preview image, choose saving options and scan the photo. We both scanned and saved a photo&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

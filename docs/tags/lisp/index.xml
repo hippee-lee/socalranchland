@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lisp on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</title>
+    <link>https://socalranch.land/tags/lisp/</link>
+    <description>Recent content in Lisp on SoCal Ranch - a (sub)urban ranching experiment in organic and digital life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Feb 2011 22:43:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://socalranch.land/tags/lisp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Take it on and Take it off</title>
+      <link>https://socalranch.land/posts/2011-02-15-take-it-on-and-take-it-off/</link>
+      <pubDate>Tue, 15 Feb 2011 22:43:44 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2011-02-15-take-it-on-and-take-it-off/</guid>
+      <description>I am amazed at how long I went with out installing js2-mode on the netbook. To make it easy, I used the emacs default kit for saner defaults. Seems to work nicely.
+I haven&amp;#8217;t been back to the orc battle since Christmas. I have been coding with the ruby koans and a fun little js project I am calling ticker. The idea is to use only pure js to make elements on a page tick, like a digital clock ticks its nuimbers away.</description>
+    </item>
+    
+    <item>
+      <title>Game Progress</title>
+      <link>https://socalranch.land/posts/2010-12-09-game-progress/</link>
+      <pubDate>Thu, 09 Dec 2010 16:30:10 +0000</pubDate>
+      
+      <guid>https://socalranch.land/posts/2010-12-09-game-progress/</guid>
+      <description>&lt;p&gt;I remember reading the &amp;#8220;choose your own adventure&amp;#8221; Books as a child and they were great fun. I didn&amp;#8217;t discover computers until college and missed out on the text adventure genre. The lisp exercises that Dr. Barski is taking me through are great fun. I really like the graphviz tool he created to vizualize the game nodes. I will be able to use that in some other areas that interest me.&lt;/p&gt;
+
+&lt;p&gt;I am finding that a scientific approach works well with his style of teaching. When I was in school for biology I did my best lab work when properly prepared. This entailed reading through the experiment/lab first and making sure I was familiar with all of the terms. Then, the experiment/lab was more fun to complete because I knew what to expect and the unanticipated things that came up were not roadblocks. I have been approaching the Land of Lisp book in a similar way: read the chapter first, try to understand the code he has written and look up new terms that I am not familiar with and then writing the code to get it running on my computer.&lt;/p&gt;
+
+&lt;p&gt;I am looking forward to getting GTW (Grand Theft Wumpus) working.&lt;/p&gt;
+
+&lt;p&gt;Oh yes,&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
