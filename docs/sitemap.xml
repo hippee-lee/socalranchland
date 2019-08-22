@@ -3,15 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hippee-lee.github.io/socalranchland/categories/</loc>
+    <loc>https://hippee-lee.github.io/socalranchland/posts/my-first-post/</loc>
+    <lastmod>2019-08-21T17:49:24-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hippee-lee.github.io/socalranchland/posts/</loc>
+    <lastmod>2019-08-21T17:49:24-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://hippee-lee.github.io/socalranchland/</loc>
+    <lastmod>2019-08-21T17:49:24-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://hippee-lee.github.io/socalranchland/tags/</loc>
+    <lastmod>2019-08-21T17:49:24-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hippee-lee.github.io/socalranchland/tags/untagged/</loc>
+    <lastmod>2019-08-21T17:49:24-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hippee-lee.github.io/socalranchland/categories/</loc>
   </url>
   
 </urlset>

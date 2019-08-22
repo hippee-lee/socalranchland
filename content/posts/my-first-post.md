@@ -1,8 +1,8 @@
 ---
 title: "My First Post"
 date: 2019-08-21T17:49:24-07:00
-draft: true
-toc: false
+draft: false
+toc: true
 images:
 tags:
   - untagged
