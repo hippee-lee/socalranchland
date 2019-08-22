@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SoCal Ranch - a (sub)urban ranching experiment</title>
-    <link>https://hippee-lee.github.io/socalranchland/tags/</link>
+    <link>https://socalranch.land/tags/</link>
     <description>Recent content in Tags on SoCal Ranch - a (sub)urban ranching experiment</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Aug 2019 17:49:24 -0700</lastBuildDate>
     
-	<atom:link href="https://hippee-lee.github.io/socalranchland/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://socalranch.land/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>untagged</title>
-      <link>https://hippee-lee.github.io/socalranchland/tags/untagged/</link>
+      <link>https://socalranch.land/tags/untagged/</link>
       <pubDate>Wed, 21 Aug 2019 17:49:24 -0700</pubDate>
       
-      <guid>https://hippee-lee.github.io/socalranchland/tags/untagged/</guid>
+      <guid>https://socalranch.land/tags/untagged/</guid>
       <description></description>
     </item>
     

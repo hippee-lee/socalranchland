@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>untagged on SoCal Ranch - a (sub)urban ranching experiment</title>
-    <link>https://hippee-lee.github.io/socalranchland/tags/untagged/</link>
+    <link>https://socalranch.land/tags/untagged/</link>
     <description>Recent content in untagged on SoCal Ranch - a (sub)urban ranching experiment</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Aug 2019 17:49:24 -0700</lastBuildDate>
     
-	<atom:link href="https://hippee-lee.github.io/socalranchland/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://socalranch.land/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>https://hippee-lee.github.io/socalranchland/posts/my-first-post/</link>
+      <link>https://socalranch.land/posts/my-first-post/</link>
       <pubDate>Wed, 21 Aug 2019 17:49:24 -0700</pubDate>
       
-      <guid>https://hippee-lee.github.io/socalranchland/posts/my-first-post/</guid>
+      <guid>https://socalranch.land/posts/my-first-post/</guid>
       <description>This is a title level 2 level 3 just a paragraph &amp;hellip;</description>
     </item>
     
